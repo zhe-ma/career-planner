@@ -1,4 +1,4 @@
-# Career Strategist
+# Career Planner
 
 > 不替你罗列十条可能性。先把事实查清，再给一个最值得投入的方向。
 
@@ -7,7 +7,7 @@
 ![Evidence Based](https://img.shields.io/badge/方法-证据驱动-7c3aed)
 ![Long-form Analysis](https://img.shields.io/badge/报告-深度长文-475569)
 
-Career Strategist 是一套面向各行业的职业规划 Skill。它可以阅读简历、述职、项目、答辩和作品材料，主动调研行业、岗位、收入与 AI 冲击，最终给出：
+Career Planner 是一套面向各行业的职业规划 Skill。它可以阅读简历、述职、项目、答辩和作品材料，主动调研行业、岗位、收入与 AI 冲击，最终给出：
 
 - 一个明确的下一阶段职业定位；
 - 留下、转岗、跳槽、转行或继续探索的判断；
@@ -19,7 +19,7 @@ Career Strategist 是一套面向各行业的职业规划 Skill。它可以阅�
 
 ## 它凭什么不一样：先看工作方式
 
-市面上大多数职业规划工具，本质上是“陪聊”：你说什么，它顺着说什么，最后给你几句鼓励和一串方向。Career Strategist 按资深顾问办案的方式工作——**没有证据不开口，没有账本不下注**：
+市面上大多数职业规划工具，本质上是“陪聊”：你说什么，它顺着说什么，最后给你几句鼓励和一串方向。Career Planner 按资深顾问办案的方式工作——**没有证据不开口，没有账本不下注**：
 
 ![工作方法：取证、调研、审判、定位、验证](demo/assets/methodology.svg)
 
@@ -54,11 +54,11 @@ Career Strategist 是一套面向各行业的职业规划 Skill。它可以阅�
 
 下面这张图把差距一次讲清（对比对象是市面上常见的“问答式 / 模板式”职业规划做法，不针对某个具体产品）：
 
-![Career Strategist 与常见职业规划 Skill 对比](demo/assets/comparison.svg)
+![Career Planner 与常见职业规划 Skill 对比](demo/assets/comparison.svg)
 
 同样的内容，用表格再列一遍，方便细看：
 
-| 对比维度 | 常见职业规划 Skill | Career Strategist（本 Skill） |
+| 对比维度 | 常见职业规划 Skill | Career Planner（本 Skill） |
 | --- | --- | --- |
 | 信息输入 | 只看一段自述，最多扫一眼简历；材料里的冲突和水分没人管 | 批量读简历、述职、项目、答辩、作品与目标 JD；本人贡献、平台成绩、外部验证分开记，冲突集中追问，缺关键事实先暂停报告 |
 | 市场信息 | 凭印象谈趋势，薪资张口就来；数据没日期、没城市、没来源 | 主动调研行业周期、真实 JD 样本、收入口径和 AI 任务冲击；每个数据标日期、城市与来源，查不到就明说 |
