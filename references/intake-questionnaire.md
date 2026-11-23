@@ -1,94 +1,94 @@
-# 全景开放问卷与关键追问规则
+# Open questionnaire and the rules for stopping
 
-> 你不需要逐题填写。可以把材料一次性发来，也可以参考下面提示写成一整段。敏感项可脱敏、写区间或跳过。数字、具体成果、真实顾虑越清楚，结论越可靠。
+> The user does not need to answer item by item. They can send materials in one batch, or write one narrative using the prompts below. Sensitive items can be redacted, given as a range, or skipped. Clear numbers, concrete results, and real worries make the conclusion more reliable.
 
-## 可以直接提供的材料
+## Materials to send as they are
 
-不要求整理成统一格式。请优先提供最能说明“做过什么、做到什么程度”的材料：
+Do not ask for a standard format. Prefer whatever best shows what the person did and how far it went:
 
-- 简历、个人履历或职业时间线；
-- 述职报告、晋升材料、绩效总结、工作复盘；
-- 项目文档、案例报告、答辩 PPT、结项材料；
-- 作品集、方案、研究报告、课程或产品成果；
-- 岗位说明、目标 JD、Offer、猎头或招聘沟通记录；
-- 客户反馈、上级/同事反馈、获奖或资格证明；
-- 自媒体、自由职业或创业的后台数据、订单与经营记录；
-- 手机系统的一周屏幕时间截图或统计（iOS「屏幕时间」/ 安卓「数字健康」均可），只看总时长和 App 分类占比，不需要提供任何内容细节。
+- a resume, CV, or career timeline;
+- performance reviews, promotion packets, and project retrospectives;
+- project documents, case write-ups, defense decks, and close-out notes;
+- a portfolio, proposals, research, courses, or product results;
+- a job description, target postings, an offer, or recruiter notes;
+- client feedback, manager or peer feedback, awards, or credentials;
+- creator, freelance, or business analytics, orders, and operating records;
+- one week of screen-time stats or a screenshot (iOS Screen Time or Android Digital Wellbeing). Total time and app-category share are enough. Do not ask for the content itself.
 
-可删除姓名、电话、公司、客户和项目代号。不要上传无权分享的商业秘密、个人数据或受保密协议约束的原文；可以提供脱敏摘要。
+Names, phone numbers, employers, clients, and project code names can be removed. Do not upload trade secrets, personal data the user has no right to share, or text covered by a confidentiality agreement. A redacted summary is enough.
 
-AI 阅读材料后应先给出“已获取事实、材料冲突、仍缺信息”三项摘要，再决定是否追问。不能把述职材料中的自我评价直接当成已验证能力。
+After reading, first return three lists: facts in hand, conflicts between materials, and what is still missing. Then decide whether to ask more. Do not treat self-praise in a performance review as verified skill.
 
-## A. 为什么是现在？
+## A. Why now?
 
-- 最近发生了什么，让你开始认真考虑职业规划？是工作无聊、晋升受阻、裁员消息、收入压力、家庭变化、同辈比较，还是其他事情？
-- 这种想法持续了多久？是长期判断，还是一件具体事情之后突然变强？
-- 最近看过哪些让你心动的人、账号、课程或转型故事？它们最打动你的是收入、自由、被看见，还是终于不用过现在的生活？
-- 如果这次规划最终只能解决一个问题，你最希望它解决什么？
-- 未来 3–5 年你最想得到什么，又最怕失去什么？
-- 回报、稳定、成长、自由、家庭时间、地域限制之间，你真实的优先顺序是什么？
+- What happened recently that made a career plan feel urgent? Boredom, a blocked promotion, layoff news, income pressure, a family change, a peer comparison, or something else?
+- How long has this been going on? A long judgment, or a spike after one event?
+- Which people, accounts, courses, or career-change stories have been attractive lately? Was it the income, the freedom, being seen, or finally leaving this life?
+- If this plan can solve only one problem, which one should it solve?
+- Over the next 3–5 years, what do you most want, and what are you most afraid of losing?
+- What is the real order among pay, stability, growth, freedom, family time, and location?
 
-## B. 你现在具体在做什么？
+## B. What do you actually do?
 
-- 当前城市、行业、公司类型、岗位、职级、工作年限；日常工作具体由哪些任务构成，各占大约多少时间？
-- 这份工作除了工资，还给了你什么：履历信用、行业入口、客户、人脉、学习机会、稳定性或作息？哪些是你以前低估的？
-- 过去一年里，有没有哪怕一小段时间觉得这份工作还不错？当时在做什么、和谁合作、为什么？
-- 最近 3–5 年最有说服力的 2–3 个成果是什么？尽量写清背景、你本人做了什么、结果数字、其他人的贡献。
-- 当前收入结构可给区间：固定薪资、奖金、提成、股权、福利；是否有竞业、服务期或未归属权益？
-- 当前组织和业务状态：增长还是收缩？团队人数和职责是否变化？晋升、绩效或裁员有哪些明确事实？
-- 如果不离开，你觉得自己能不能争取更核心的问题、更大的责任或更好的定价？你尝试过吗，结果如何？
-- AI 或自动化已经怎样改变你的日常任务？你用它做过哪些真实工作，结果如何？请区分个人尝试、团队采用和正式业务流程。
+- Current city or labor market, industry, company type, role, level, and years. Which tasks make up the week, and roughly what share of time is each?
+- Besides pay, what does this job still give you: resume credit, an industry door, clients, a network, learning, stability, or a livable schedule? Which of those have you been underpricing?
+- In the past year, was there even a short stretch when the job felt decent? What were you doing, with whom, and why?
+- What are the two or three most persuasive results of the last 3–5 years? Include the context, what you personally did, the numbers, and what other people contributed.
+- Income, as a range if needed: base, bonus, commission, equity, benefits. Any non-compete, notice period, clawback, or unvested equity?
+- What is objectively happening to the organization: growth or contraction, headcount and scope changes, and any concrete facts about promotion, performance, or layoffs?
+- If you stayed, could you reach a more central problem, more responsibility, or a better price? Have you tried, and what happened?
+- How have AI or automation already changed the daily tasks? Which real work have you done with them, and what was the result? Separate a personal experiment, team adoption, and a formal process.
 
-## C. 你的可迁移资产和短板是什么？
+## C. What transfers, and what does not?
 
-- 离开当前公司后仍能带走的能力、作品、客户、人脉、行业知识、证书有哪些？哪些能力主要依赖当前平台？
-- 哪类工作你做得又快又稳？哪类场景你缺少经验或明显吃力？请尽量用实际事件描述，而非性格标签。
-- 是否有跨行业经历、第二专业、公开作品、开源项目、客户案例或管理经验？
-- 是否处理过复杂流程、重要判断、质量把关、成本效率、风险合规、客户/用户体验或跨团队推广？请结合本行业举例，没有也可以直接写没有。
-- 过去尝试过哪些转型、副业、考证、创业或投资？投入了多久、产生什么结果、为什么停止？
+- Which skills, artifacts, clients, relationships, industry knowledge, and credentials leave with you? Which mostly depend on the current platform?
+- Which work do you do quickly and reliably? Which situations are thin or clearly hard? Use events, not personality labels.
+- Any cross-industry experience, a second discipline, public work, open source, client cases, or management?
+- Have you handled a complex process, an important judgment, quality control, cost and efficiency, risk and compliance, customer experience, or a cross-team rollout? Use an example from this industry. "No" is an acceptable answer.
+- Which career changes, side projects, certificates, businesses, or investments have you already tried? How long, what result, and why they stopped?
 
-## D. 现实底盘与选择空间
+## D. The floor under the choice
 
-- 家庭结构、伴侣协同、子女/长辈照护、必须留在某城市等约束是什么？
-- 可动用现金大概能覆盖多少个月刚性开支？主要资产、负债、保险和未来 3 年大额支出有哪些？
-- 工作日、通勤、周末真实时间如何分配？业余时间主要花在哪里，娱乐、休息、陪家人、学习各占多少？
-- **每天的娱乐与刷手机时间**（这一项请尽量说具体，后面排行动计划要靠它算时间账）：每天手机屏幕时间大约多久？抖音/快手等短视频、微信公众号与视频号、小红书、微博、B 站/长视频、游戏、新闻资讯，各占大头的是哪几个？主要在什么时段刷——通勤、午休、睡前、带娃间隙？工作日和周末差多少？
-- 刷的内容主要是哪几类：同行与职业、副业变现与成功故事、娱乐搞笑、情感、新闻热点？最近有没有哪个账号、哪条内容明显影响了你的想法或情绪？
-- 刷完之后通常是什么感觉：放松了，还是更焦虑、更想买课、更想辞职？
-- 有哪些需要长期管理、会影响工作节奏的客观健康情况？只需事实，不需要自行判断影响。
+- Household structure, a partner's constraints, care for children or parents, and any city you cannot leave.
+- How many months of fixed costs can available cash cover? Main assets, debts, insurance, and large expenses in the next 3 years?
+- How do weekdays, the commute, and weekends actually split? Where does time outside work go: entertainment, rest, family, study?
+- **Daily entertainment and phone time.** Be specific. The action plan has to take its hours from here. About how long is daily screen time? Of TikTok, Instagram, YouTube and Shorts, newsletters, LinkedIn, Reddit, X, long-form video, games, and news, which take the largest share? When: commute, lunch, late night, gaps between childcare? How do weekdays differ from weekends?
+- What is the content mostly about: the industry and career, side-income and success stories, entertainment, relationships, news? Has any account or post clearly moved your thinking or your mood?
+- Afterward, do you usually feel rested, or more anxious, more ready to buy a course, more ready to quit?
+- Any ongoing health facts that change the work rhythm? Facts only. Do not self-diagnose the career impact.
 
-> 为什么问娱乐时间？不是评判生活方式。刷手机的时间同时是两样东西：一是 90 天行动计划唯一现实的时间来源（说“每天挤出两小时”之前，要先说清从哪一项里挤）；二是焦虑的信息来源（你天天看的内容，会悄悄改写你对“要不要走”的判断）。没有这项记录，时间账和信息环境分析就只能靠猜。
+> Why ask about entertainment? It is not a moral judgment. Phone time is two things at once. It is the only realistic source of hours for a 90-day plan: "I'll find two hours a day" is empty until you name which habit those hours come from. It is also the information environment: what you watch all day quietly rewrites whether you think you should leave. Without this record, both the time ledger and the information-environment analysis are guesses.
 
-## E. 你在考虑哪些选择？
+## E. Which options are on the table?
 
-- 你目前想到的方案有哪些：留下、内部转岗、换公司、换行业、自由职业、创业、副业？分别为什么吸引你、又担心什么？
-- 对下一份工作，哪些是必须满足的，哪些可以妥协，哪些绝对不接受？
-- 有无正在接触的岗位、公司或行业？如果有，请贴 JD、Offer 或沟通信息。
-- 如果想做自媒体、自由职业或创业：具体服务谁、解决什么问题、靠什么收费？已经连续产出多久，获得过多少有效咨询、付费、复购或转介绍？每周实际投入多少时间和费用？
-- 你喜欢的是这件事每天要做的日常，还是喜欢成功之后的样子？如果一年都不赚钱、也得不到多少关注，你还愿意继续做吗？
-- 如果想“学点东西”：目标岗位或客户是谁？准备学什么，为什么它会改变录用或付费结果？是否看过真实 JD、问过从业者、做过项目或投递测试？
-- 有没有认真算过换路的代价：可能降多少薪、从什么层级重新开始、多久建立信任、失败后是否还回得来？
-- 这些尝试给你的主要回报是什么：收入、掌控感、成长感、身份认同、表达欲，还是暂时摆脱当前工作？请按真实情况描述，不需要包装。
+- Which options are you already considering: stay, internal move, new company, new industry, freelance, a startup, a side project? What attracts you, and what worries you?
+- For the next job, what is required, what is negotiable, and what is unacceptable?
+- Any live conversations with a role, a company, or an industry? If so, paste the job description, the offer, or the notes.
+- If you want a creator business, freelance work, or a startup: who is the customer, what problem do you solve, and how do you charge? How long have you shipped continuously, and how many real inquiries, payments, repeat payments, or referrals? Hours and money per week?
+- Do you like the daily work, or the picture of having succeeded? If a year produced no money and little attention, would you still do it?
+- If you want to "learn something": who is the target employer or customer? What will you learn, and why would it change a hiring or a payment decision? Have you read real job descriptions, asked practitioners, built a project, or sent a test application?
+- Have you priced the switch: how much pay you might give up, which level you restart from, how long trust takes, and whether you can come back if it fails?
+- What has the experiment mainly paid you so far: income, control, a feeling of growth, identity, the wish to be heard, or a break from the current job? Describe it as it is.
 
-## F. 如果涉及理财
+## F. Only if money management is in scope
 
-- 这笔钱分别在什么时候可能使用：随时应急、1–3 年内买房/教育、5 年以上不用？
-- 最大可接受回撤是多少？是账面短期回撤，还是本金永久损失？
-- 是否有过投资经验，遇到下跌时实际做过什么？
+- When might this money be needed: an emergency at any time, a home or education cost in 1–3 years, or unused for 5 years or more?
+- What drawdown is acceptable? A mark-to-market dip, or a permanent loss of principal?
+- Any investing history, and what you actually did when the value fell?
 
 ---
 
-## 信息门槛：什么时候必须暂停追问？
+## When the report must stop and ask
 
-AI 收到回答后先检查：
+After the answers arrive, check:
 
-- 若不知道当前具体职责与成果，无法判断市场定位；
-- 若不知道规划诱因与价值排序，无法判断“留还是走”；
-- 若不知道目标城市和硬约束，无法调研岗位；
-- 若建议转行/裸辞却不知道现金跑道和家庭约束，风险评估无效；
-- 若建议扩大自媒体、创业或学习投入，却不知道持续产出、需求和付费证据，方案没有依据；
-- 若行动计划依赖业余时间，却不知道每天娱乐与刷手机的实际占用和时段，所谓“挤时间”就是空话；
-- 若用户焦虑明显受外部叙事影响，却不知道其日常内容结构（刷什么、刷多久），信息环境分析无从下手；
-- 若给理财建议却不知道资金期限，任何比例都不负责。
+- without the actual duties and results, a market position cannot be judged;
+- without the trigger and the order of values, "stay or leave" cannot be judged;
+- without the target labor market and the hard constraints, jobs cannot be researched;
+- a recommendation to switch industries or quit without another offer is not a risk assessment if cash runway and family constraints are unknown;
+- a recommendation to spend more on a creator business, a startup, or study has no basis without evidence of continued output, demand, and payment;
+- an action plan that depends on evenings and weekends is empty if the real entertainment hours and time of day are unknown;
+- if outside narratives are clearly feeding the anxiety, and the daily content diet is unknown, the information-environment analysis cannot start;
+- a money recommendation without a time horizon for the funds is not responsible, at any allocation.
 
-遇到以上情况，必须暂停报告，一次集中追问 2–5 个关键问题，并解释这些答案会改变哪项结论。不要为了“顺畅”而用猜测补齐。
+When one of these is missing and would change the conclusion, stop the report. Ask the 2–5 questions that matter, in one batch, and say which conclusion each answer would change. Do not fill the gap with a guess in order to keep the conversation smooth.

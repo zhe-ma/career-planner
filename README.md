@@ -1,182 +1,179 @@
 # Career Planner
 
-> 不替你罗列十条可能性。先把事实查清，再给一个最值得投入的方向。
+> It does not hand you ten possibilities. It establishes the facts, then names the one direction worth the bet.
 
-[![WorkBuddy Ready](https://img.shields.io/badge/WorkBuddy-Ready-0f766e)](https://open.workbuddy.cn/docs/skill)
-![Cross Industry](https://img.shields.io/badge/行业-通用-2563eb)
-![Evidence Based](https://img.shields.io/badge/方法-证据驱动-7c3aed)
-![Long-form Analysis](https://img.shields.io/badge/报告-深度长文-475569)
+![Evidence first](demo/cover-512.png)
 
-Career Planner 是一套面向各行业的职业规划 Skill。它可以阅读简历、述职、项目、答辩和作品材料，主动调研行业、岗位、收入与 AI 冲击，最终给出：
+![Cross industry](https://img.shields.io/badge/industries-any-2563eb)
+![Evidence based](https://img.shields.io/badge/method-evidence--first-7c3aed)
+![Long-form](https://img.shields.io/badge/report-long--form-475569)
 
-- 一个明确的下一阶段职业定位；
-- 留下、转岗、跳槽、转行或继续探索的判断；
-- 主方案、备选方案与改变结论的条件；
-- 14/30/60/90 天可验证行动；
-- 一份内容优先、可以坐下来慢慢读完的深度 HTML 报告。
+Career Planner is a career-planning skill for any industry. It reads a resume, reviews, projects, defense materials, and a portfolio. It researches the industry, real jobs, pay, and the impact of AI in the user's own labor market. It then delivers:
 
-![报告首页：结论、定位与第一步](demo/report-hero.png)
+- one clear position for the next stage;
+- a call on whether to stay, move internally, change companies, switch industries, or keep exploring;
+- a main plan, a backup, and the evidence that would change the call;
+- actions that can be checked at 14, 30, 60, and 90 days;
+- a long HTML report meant to be sat down and read.
 
-## 它凭什么不一样：先看工作方式
+The listing cover is `demo/cover-512.png` (512×512).
 
-市面上大多数职业规划工具，本质上是“陪聊”：你说什么，它顺着说什么，最后给你几句鼓励和一串方向。Career Planner 按资深顾问办案的方式工作——**没有证据不开口，没有账本不下注**：
+## How it works
 
-![工作方法：取证、调研、审判、定位、验证](demo/methodology.svg)
+Most career tools are a conversation that agrees with you and ends in encouragement plus a list of directions. Career Planner works the way a senior advisor works a case. **No evidence, no opinion. No ledger, no bet.**
 
-五个环节，环环有产出：
+![Method: evidence, market, judgment, one position, a 90-day test](demo/methodology.svg)
 
-1. **材料取证**：不只听你自述。简历、述职、项目、答辩、作品、目标 JD 一次性读完，把本人贡献、平台借给你的成绩、外部验证分开记；材料互相打架的地方集中追问，缺了会翻盘的关键事实，报告宁可暂停也不猜。
-2. **市场调研**：不凭印象谈趋势。行业处在什么周期、真实岗位到底招什么人、薪资是什么口径、AI 具体在吃掉你哪些日常任务——逐项查，标日期、城市和来源；查不到的，明说查不到。
-3. **独立审判**：不做应声虫。你现有的积累享有优先辩护权；换行、自媒体、创业这类退不回去的动作，必须先过举证和算账这一关，热情不能当证据。
-4. **唯一定位**：不罗列十个方向让你自己挑。只给一个最推荐定位，用七层能力架构讲清它为什么值钱、你还差哪几块证据、哪些看着像的岗位其实别去。
-5. **90 天验证**：结论不是终身判决。用面试、项目、付费这些真实世界的回音分段验收，达标就推进，不达标就改口，并提前写清改口条件。
+Five steps, each with an output:
 
-## 为什么需要它
+1. **Evidence.** It does not only listen. It reads the resume, reviews, projects, defense materials, portfolio, and target job descriptions in one pass. Personal credit, results borrowed from the platform, and outside verification are recorded separately. Conflicts are asked about together. If a fact that would flip the conclusion is missing, the report stops instead of guessing.
+2. **Market.** It does not talk about trends from impression. It checks the industry cycle, what real jobs actually hire for, how pay is defined, and which daily tasks AI is already eating. Every figure has a date, a place, and a source. What cannot be checked is said out loud.
+3. **An independent judgment.** It does not echo. Existing accumulation gets the benefit of the defense. A career switch, a creator business, or a startup is hard to undo, so it has to pass evidence and a ledger. Enthusiasm is not evidence.
+4. **One position.** It does not offer ten directions and leave the choice with you. It gives one recommended position, says why it is worth money, which evidence is still missing, and which lookalike roles to avoid.
+5. **A 90-day test.** The conclusion is not a life sentence. Interviews, projects, and payment are the checkpoints. Meet them and continue. Miss them and the call changes. The condition for changing it is written in advance.
 
-很多职业规划最终变成三类无效内容：
+## Why it exists
 
-- 重复用户已经知道的信息；
-- 把所有选择平铺出来，让用户自己决定；
-- 用“提升认知、打造影响力、拥抱 AI”代替具体判断。
+A lot of career advice ends as one of three useless things:
 
-这个 Skill 采用另一套方式：
+- a repeat of what the person already knows;
+- every option laid out flat, so the person still has to decide;
+- "raise your awareness, build a brand, embrace AI" in place of a judgment.
 
-1. **先取证**：从用户陈述和职业材料中提取事实、结果、本人贡献与冲突。
-2. **再调研**：查看真实岗位、收入口径、行业变化和 AI 对具体任务的影响。
-3. **做判断**：明确当前处境、去留策略和唯一最推荐定位。
-4. **低成本验证**：用市场反馈、面试、付费、项目结果等硬信号更新结论。
+This skill works the other way:
 
-它有观点，但不假装全知。事实、市场数据、分析推断和待验证假设会被明确区分。每个核心判断都必须经过一条完整推理链：事实是什么、还有哪些解释、调研更支持哪一种、其他选择会失去什么、现在该怎么做、什么新证据会让顾问改口。
+1. **Take evidence first**, from the person's account and from the career materials: facts, results, personal credit, and conflicts.
+2. **Then research** real jobs, the local definition of pay, industry change, and what AI does to specific tasks.
+3. **Then judge**: the current situation, stay or go, and one recommended position.
+4. **Test it cheaply**, and update the conclusion from market feedback, interviews, payment, and project results.
 
-报告刻意压低形式感。它更像一位见过行业起落的长者坐在对面长谈：先把现有工作的价值与损耗算清，再讨论要不要走；先问新方向的基准率、生意账和真实日常，再谈热爱与自由。只要现有积累还有价值，换行、自媒体和创业就必须先通过举证，不能靠情绪胜诉。
+It has a point of view, and it does not pretend to know everything. Facts, market data, inference, and hypotheses still to be tested are labeled. Every core judgment walks a full chain: what the facts are, what else could explain them, which explanation the research supports, what the other choice would cost, what to do now, and what new evidence would make the advisor change the call.
 
-## 跟常见的职业规划 Skill 比一比
+The report keeps the design quiet. It is closer to a long conversation with someone who has watched industries rise and fall. It prices the current job's value and its cost before discussing whether to leave. It asks for the base rate, the business ledger, and the real Tuesday of a new direction before it talks about passion and freedom. While the existing accumulation still has value, a career switch, a creator business, or a startup has to pass the evidence first.
 
-下面这张图把差距一次讲清（对比对象是市面上常见的“问答式 / 模板式”职业规划做法，不针对某个具体产品）：
+## Compared with a typical career skill
 
-![Career Planner 与常见职业规划 Skill 对比](demo/comparison.svg)
+The figure below is the whole gap at once. The comparison is with common question-and-template career tools, not with a named product.
 
-同样的内容，用表格再列一遍，方便细看：
+![Career Planner compared with a typical career skill](demo/comparison.svg)
 
-| 对比维度 | 常见职业规划 Skill | Career Planner（本 Skill） |
+| Dimension | A typical career skill | Career Planner |
 | --- | --- | --- |
-| 信息输入 | 只看一段自述，最多扫一眼简历；材料里的冲突和水分没人管 | 批量读简历、述职、项目、答辩、作品与目标 JD；本人贡献、平台成绩、外部验证分开记，冲突集中追问，缺关键事实先暂停报告 |
-| 市场信息 | 凭印象谈趋势，薪资张口就来；数据没日期、没城市、没来源 | 主动调研行业周期、真实 JD 样本、收入口径和 AI 任务冲击；每个数据标日期、城市与来源，查不到就明说 |
-| 顾问立场 | 用户想转行就帮他论证转行，想创业就帮他算梦想 | 现有积累享有优先辩护权；换行、自媒体、创业属于不可逆动作，必须先举证、先算退出成本 |
-| 推理深度 | 直接给结论，理由两三句；换个问法结论就可能变 | 每个核心结论走完整推理链：事实 → 反方解释 → 调研校准 → 算账 → 判断 → 改口条件 |
-| 结论形式 | 罗列 5–10 个方向让用户自己选，看着全面，其实把判断推回给用户 | 只给 1 个最推荐定位，外加选择排序和“现在不要做”清单；错了也知道错在哪一步 |
-| 新方向判断 | 看兴趣和成功故事就鼓励尝试，“有人做成”等于“你也能成” | 六级证据阶梯加生意账一起审：没人付费不算副业，学习必须挂到目标岗位和可展示作品 |
-| 行动计划 | “多学习、多 networking、提升认知”，没期限没验收 | 14 / 30 / 60 / 90 天分段验证，每段有交付物、达标信号和停止条件 |
-| 最终交付 | 一次性聊天回复，事实、观点、猜测混在一起 | 纯事实档案 + 带目录和图表的深度 HTML 报告，事实与判断分开存档，可复盘可更新 |
+| Input | A short self-description, maybe a glance at the resume. Conflicts and padding are ignored. | Reads the resume, reviews, projects, defense, portfolio, and target job descriptions. Separates personal credit, platform results, and outside verification. Asks about conflicts together. Stops if a decisive fact is missing. |
+| Market | Trends and salaries from impression. No date, no place, no source. | Researches the cycle, real job samples, the pay definition, and the AI impact on specific tasks. Every figure has a date, a place, and a source. What cannot be checked is said. |
+| Stance | If you want to switch, it argues for the switch. If you want a startup, it prices the dream. | Existing accumulation gets the defense. A switch, a creator business, or a startup is hard to undo and has to show evidence and an exit cost. |
+| Reasoning | A conclusion and two sentences. Ask another way and the answer may change. | Every core conclusion walks fact, the other explanation, research, the ledger, the call, and what would change the call. |
+| Conclusion | Five to ten directions, and the choice is handed back. | One recommended position, a ranking, and a list of what not to do now. If the call is wrong, you can see which step failed. |
+| New paths | Interest and a success story are treated as "you can do it too." | A six-step evidence ladder plus the business ledger. No payment, no side income. Study has to attach to a target role and an artifact that can be shown. |
+| Action | "Learn more. Network more. Raise your awareness." No deadline and no test. | 14 / 30 / 60 / 90 days, each with a deliverable, a pass signal, and a stop condition. |
+| Delivery | One chat reply. Facts, opinions, and guesses are mixed. | A fact dossier plus a long HTML report with a table of contents and diagrams. Facts and judgments are stored apart, and can be reviewed later. |
 
-一句话总结：**别人给你“方向感”，它给你证据、账本、一个主张，和 90 天的验证办法。**
+**Others offer a feeling of direction. This offers evidence, a ledger, one claim, and a 90-day way to test it.**
 
-## 它能回答哪些关键问题
+## The questions it answers
 
-| 用户真正关心的问题 | 报告给出的答案 |
+| What the person actually asks | What the report answers |
 | --- | --- |
-| 我为什么突然想换方向？ | 表层触发、底层需求与真正矛盾 |
-| 现在应该留还是走？ | 明确结论、理由、风险和反转条件 |
-| 下一站到底做什么？ | 唯一最推荐定位、1 年过渡定位与 3 年目标 |
-| 我的市场价格是多少？ | 目标城市、岗位样本、收入区间和口径 |
-| AI 会不会影响我？ | 拆到具体任务、质量责任和行业流程 |
-| 自媒体或创业靠谱吗？ | 需求、付费、重复性、单位经济和投入上限 |
-| 应该学什么？ | 目标岗位 → 能力缺口 → 作品 → 市场反馈 |
-| 接下来怎么行动？ | 14/30/60/90 天验证计划与停止条件 |
+| Why do I suddenly want a different direction? | The surface trigger, the underlying need, and the real contradiction |
+| Should I stay or leave? | A clear call, the reasons, the risk, and what would reverse it |
+| What should the next seat be? | One recommended position, a 1-year bridge, and a 3-year target |
+| What is my market price? | The target labor market, job samples, a pay range, and the definition of that pay |
+| Will AI affect me? | Down to specific tasks, quality ownership, and the industry's process |
+| Is a creator business or a startup real? | Demand, payment, repetition, unit economics, and a spending cap |
+| What should I learn? | Target role, then the gap, then an artifact, then market feedback |
+| What do I do next? | A 14/30/60/90 day test, with stop conditions |
 
-## 不是只看简历
+## It does not only read a resume
 
-用户可以一次性提供：
+A person can send, in one batch:
 
-- 简历、职业时间线；
-- 述职报告、晋升材料、绩效总结；
-- 项目文档、答辩 PPT、结项材料；
-- 作品集、研究报告、方案和案例；
-- 目标 JD、Offer、猎头或招聘沟通；
-- 客户反馈、自媒体后台、订单和经营记录。
+- a resume or a career timeline;
+- performance reviews, promotion packets, and retrospectives;
+- project documents, defense decks, and close-out notes;
+- a portfolio, research, proposals, and cases;
+- target job descriptions, offers, and recruiter notes;
+- client feedback, creator analytics, orders, and operating records.
 
-Skill 会先输出“已获取事实、材料冲突、仍缺信息”。缺少会改变结论的关键事实时，它会暂停报告，一次集中追问，而不是用猜测补齐。
+The skill first lists facts in hand, conflicts between materials, and what is still missing. If a missing fact would change the conclusion, it pauses and asks the questions together, instead of filling the gap with a guess.
 
-## 专门处理“工作一般，想做点别的”
+## Built for "the job is fine, and I want to do something else"
 
-当用户因为工作、收入或前景不理想，开始尝试自媒体、创业、考证或学习新技能时，Skill 不会直接鼓励，也不会简单劝退。
+When the work, the pay, or the outlook is unsatisfying, and a creator account, a startup, a certificate, or a new skill appears, the skill does not cheer and it does not simply talk the person out of it.
 
-它使用六级证据阶梯判断新方向到了哪一步：
+It places the new direction on a six-step ladder:
 
-`兴趣 → 稳定产出 → 外部需求 → 首次付费 → 重复成立 → 可持续经营`
+`interest → steady output → outside demand → first payment → it repeats → a business that continues`
 
-![探索诊断：把冲动变成可验证的职业期权](demo/report-exploration.png)
+Interest, views, and certificates are signals. They are not automatically a career. The report judges separately:
 
-兴趣、播放量和证书属于信号，不自动等于职业机会。报告会分别判断：
+- whether the current path can be repaired;
+- whether an adjacent move fits;
+- how to test the new direction on the side;
+- when, if ever, a full-time bet is earned.
 
-- 当前路径能否修复；
-- 是否适合相邻迁移；
-- 新方向如何业余验证；
-- 何时才值得全职投入。
+## A position is not a job title
 
-## 定位不是一个职位名
+The position uses one sentence across industries:
 
-最终定位使用跨行业句式：
+> Someone who, in [an industry or setting], solves [a high-value problem] for [the person served], lands [professional skill or a new tool] in [a real process], and is accountable for [quality, efficiency, revenue, risk, or experience].
 
-> 能在【行业/场景】中，为【服务对象】解决【高价值问题】，把【专业能力/新工具】落地到【真实流程】，并对【质量、效率、收入、风险或体验】负责的人。
+Every industry is scored on the same seven layers, then translated into that industry's language:
 
-所有行业统一评估七层能力，再翻译成行业自己的语言：
+1. Problem definition and professional judgment.
+2. Process and tool orchestration.
+3. Decision rights and risk boundaries.
+4. Quality verification and a feedback loop.
+5. Resource and system tradeoffs.
+6. Service delivery and experience.
+7. From a pilot to scaled adoption.
 
-1. 问题定义与专业判断；
-2. 流程与工具编排；
-3. 决策权与风险边界；
-4. 质量验证与反馈闭环；
-5. 资源与系统取舍；
-6. 服务交付与体验；
-7. 从试点到规模化采用。
+Technology, manufacturing, education, healthcare, sales, and design share the skeleton. They do not share the conclusion. A technical example shows the method. It does not steer a non-technical person toward an AI or engineering job.
 
-![定位与去留：给出唯一主张，而不是选项清单](demo/report-positioning.png)
+Research uses the labor market the person is actually in. Default sources are LinkedIn, Indeed, Glassdoor, Levels.fyi, Wellfound, Blind, Welcome to the Jungle, national statistics (such as U.S. BLS or U.K. ONS), and labeled recruiter salary guides. Pay is written in the local currency and the local definition: base, bonus, equity, and benefits stay separate.
 
-技术、制造、教育、医疗、销售、设计等行业共用分析骨架，但不会共用结论。技术案例只用于展示方法，不会把非技术用户引向 AI 或研发岗位。
+## What it delivers
 
-## 报告交付
-
-默认生成：
+By default:
 
 ```text
 career-plan/
-├── fact-dossier.md             # 纯事实档案
-├── career-strategy-report.html # 单页可视化报告
-└── summary.md                  # 可选摘要
+├── fact-dossier.md             # facts only
+├── career-strategy-report.html # one long report
+└── summary.md                  # optional
 ```
 
-HTML 报告包含两个篇章：
+The HTML report has two parts:
 
-- **职业规划**：处境、心理诱因、探索诊断、市场、去留、定位、能力差距和 90 天行动；
-- **个人信息档案**：履历、项目、成果、财务、约束、材料来源与信息缺口。
+- **The career plan:** situation, motive, the experiment, the market, stay or go, the position, the capability gap, and 90 days of action.
+- **Personal facts:** history, projects, results, money, constraints, sources, and gaps.
 
-报告采用纸面长文排版：窄版心、大行距、连续论述，表格只用于岗位样本等需要对照的信息。开头提供可点击目录；去留判断、职业定位和 14 天行动用深色面板单独拎出来，不埋在正文里。关键关系还会用四种图讲清：问题鱼骨图拆根因，去留决策图控制下注顺序，探索证据阶梯判断新方向走到哪一步，定位能力架构图说明下一份工作凭什么更值钱。长段落用粗体标关键判断、每章一句荧光高亮收住核心句；报告另有四处克制的关怀触点（开场公道话、动机宽心话、行动托底话、结尾短信），每句鼓励都必须挂在一个具体事实上，不空夸、不许诺。报告不设置隐私遮挡开关；分享前请先自行删去不愿公开的收入、健康与家庭细节。
+The report is set like a paper essay: a narrow measure, generous line spacing, continuous argument. Tables are for comparisons such as job samples. A clickable table of contents sits near the top. The stay-or-go call, the position, and the 14-day action are pulled into dark panels. Four diagrams are allowed, one each: a fishbone for the root problem, a decision flow for the order of bets, an evidence ladder for how far a new direction has actually gone, and a capability stack for why the next job is worth more. Long paragraphs bold the key judgment, and each chapter highlights at most one sentence. Four restrained human moments sit in fixed places: a fair word at the opening, a relieving word after the motive, a grounding word before the action, and a short letter at the end. Each one has to hang on a specific fact. There is no privacy mask. Before sharing, delete income, health, and family details you do not want public.
 
-## 查看完整 Demo
+## The sample report
 
-演示文件：
+Open this file in a browser:
 
 ```text
 demo/career-strategy-report.demo.html
 ```
 
-直接用浏览器打开即可。Demo 使用消费品行业虚构人物，所有公司、项目、市场、收入和财务数据均为虚构，仅展示分析方法与报告效果。
+The sample uses a fictional consumer-brand manager in a major metro, with fictional U.S. dollar pay. Companies, projects, market figures, income, and savings are invented. They show the method and the page. A real report uses the reader's country, currency, and labor market.
 
-## 试试这样问
+## Try asking
 
 ```text
-请阅读我的简历、述职和项目材料，给我一个未来三年最推荐的职业定位。
+Read my resume, reviews, and project materials, and recommend the career position I should aim at for the next three years.
 ```
 
 ```text
-我最近工作没成长，也在尝试做自媒体。请判断我应该留下、跳槽，还是继续探索。
+The job has stopped teaching me anything, and I am trying a creator account. Should I stay, change jobs, or keep exploring?
 ```
 
 ```text
-我想转行但不确定代价。请结合目标城市的岗位、收入和 AI 冲击，给出客观规划。
+I want to change fields and I do not know the cost. Use real jobs, pay, and the AI impact in my target city, and give me an objective plan.
 ```
 
-## 目录结构
+## Layout
 
 ```text
 career-planner/
@@ -190,22 +187,20 @@ career-planner/
 │   ├── fact-dossier-template.md
 │   └── report-template.html
 └── demo/
+    ├── cover-512.png
     ├── career-strategy-report.demo.html
-    ├── report-hero.png
-    ├── report-exploration.png
-    ├── report-positioning.png
     ├── methodology.svg
     └── comparison.svg
 ```
 
-## 边界
+## Limits
 
-- 不做临床心理诊断、医疗或法律判断；
-- 不伪造岗位、收入、行业趋势和成功概率；
-- 招聘平台无法直接核实时会明确说明；
-- 规划结论会随着用户事实和市场变化更新；
-- 用户应先脱敏，并避免上传无权分享的商业秘密或个人数据。
+- No clinical, medical, or legal judgment.
+- It does not invent jobs, pay, industry trends, or success rates.
+- If a job board cannot be checked directly, it says so.
+- The conclusion updates when the person's facts or the market change.
+- Redact first. Do not upload trade secrets or personal data you have no right to share.
 
 ---
 
-**职业规划的价值，不是预测一个确定未来。它应该帮助你看清当前筹码、选出最值得下注的方向，并用最低成本验证。**
+**The value of a career plan is not a prediction of one certain future. It should show the chips you hold, name the bet most worth making, and test it at the lowest cost.**

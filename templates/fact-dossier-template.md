@@ -1,83 +1,94 @@
-# 个人事实档案
+# Fact dossier
 
-> 更新日期：YYYY-MM-DD
-> 规则：仅记录用户陈述或材料载明的事实、数字、日期和可观察行为。判断、心理解释和职业建议不得写入本文件。
+> Updated: YYYY-MM-DD
+> Rule: record only facts, numbers, dates, and observable behavior from the user's statements or the materials. Judgments, psychological interpretation, and career advice do not belong in this file.
 
-## 1. 基本与家庭信息
-- 姓名/称呼：
-- 所在城市与年龄阶段：
-- 婚姻、子女与同住情况：
-- 家庭照护与赡养安排：
-- 地域与生活硬约束：
+## 1. Basics and household
 
-## 2. 教育与资质
-- 学历、专业、院校与时间：
-- 证书、资质与有效期：
-- 其他系统学习经历：
+- Name or what to call them:
+- City or labor market, and age band:
+- Marriage, children, and who lives in the household:
+- Care and support arrangements:
+- Location and other hard constraints:
 
-## 3. 工作履历
-- 当前公司类型、行业、岗位、职级、入职时间：
-- 日常任务及时间占比：
-- 历次工作经历（时间/行业/公司类型/岗位/职责）：
-- 合约限制（竞业、服务期、股权归属）：
-- 当前组织与业务的客观变化：
+## 2. Education and credentials
 
-## 4. 项目成果与能力证据
-每项按以下格式记录：
-- 项目/成果：
-- 时间与背景：
-- 本人具体贡献：
-- 协作者与贡献边界：
-- 可量化结果：
-- 可公开/脱敏程度：
+- Degrees, fields, institutions, and dates:
+- Licenses, certifications, and expiry:
+- Other sustained study:
 
-## 5. 能力、资源与实践记录
-- 技术/专业能力：
-- 行业知识：
-- 管理、销售、表达、协作等实际经历：
-- AI/自动化实践（个人提效/重复流程/业务集成/治理运行/规模化采用）：
-- 实践证据（本行业的质量、成本、效率、风险、体验、采用率或业务结果）：
-- 客户、人脉、公开作品与推荐人：
-- 转型、副业、创业、考证或投资尝试及结果：
-- 自媒体/内容实践（平台、主题、起止时间、更新频率、有效受众、咨询、付费、复购、投入时间与费用）：
-- 学习实践（目标岗位/客户、学习内容、作品、投递/接单及反馈）：
+## 3. Work history
 
-## 6. 收入、资产、负债与保障
-- 收入结构：
-- 流动资金及用途期限：
-- 固定资产：
-- 负债及还款方式：
-- 月均刚性支出与年结余：
-- 社保、商业保险与家庭保障：
-- 过往投资行为与实际回撤反应：
+- Current company type, industry, role, level, and start date:
+- Daily tasks and share of time:
+- Prior roles (dates / industry / company type / title / scope):
+- Contract limits (non-compete, notice, garden leave, unvested equity, clawback):
+- Objective changes in the organization and the business:
 
-## 7. 时间、日常与客观健康记录
-- 上下班、通勤与周末安排：
-- 每日屏幕时间总量及统计口径（系统统计/截图/自述估算）：
-- 娱乐结构：短视频、公众号/视频号、小红书、长视频、游戏、新闻等各占多少：
-- 主要使用时段（通勤/午休/睡前/带娃间隙等）与工作日、周末差异：
-- 常看内容类别与明显影响其想法或情绪的账号/内容：
-- 刷后主观感受（放松/更焦虑/消费或辞职冲动，仅记自述）：
-- 运动、睡眠与日常习惯：
-- 需长期管理的健康事实：
+## 4. Projects and evidence of skill
 
-## 8. 目标、偏好与不可接受条件
-- 本次规划直接诱因：
-- 未来 3–5 年目标：
-- 回报/稳定/成长/自由/家庭时间的优先顺序：
-- 下一份工作必须满足、可妥协、不可接受项：
-- 当前考虑的方案或具体机会：
+For each item:
 
-## 9. 信息来源与置信状态
-- 本人陈述：
-- 简历与履历：
-- 述职、晋升、绩效或答辩材料：
-- 项目文档、案例、作品集或研究成果：
-- 岗位、Offer、客户反馈或经营记录：
-- 已核实：
-- 尚未核实：
+- Project or result:
+- When, and the context:
+- What this person personally did:
+- Collaborators and the boundary of credit:
+- Quantified result:
+- What can be shown publicly, or only in redacted form:
 
-## 10. 材料冲突与信息缺口
-- 不同来源的冲突：
-- 会影响结论、仍需补充的信息：
-- 用户选择不提供的信息：
+## 5. Skills, resources, and practice
+
+- Technical or professional skill:
+- Industry knowledge:
+- Actual experience in management, sales, communication, or collaboration:
+- AI or automation practice (personal speed / repeatable workflow / process integration / governed operation / scaled adoption):
+- Evidence from this industry (quality, cost, efficiency, risk, experience, adoption, or a business result):
+- Clients, network, public work, and references:
+- Career-change, side-project, startup, certificate, or investing attempts, and the results:
+- Creator or content practice (platform, subject, start and stop, cadence, real audience, inquiries, payment, repeat payment, hours, and cost):
+- Study practice (target role or customer, what was learned, the artifact, applications or paid trials, and the feedback):
+
+## 6. Income, assets, debts, and protection
+
+- Income structure, in the user's currency:
+- Liquid funds and when they may be needed:
+- Assets:
+- Debts and how they are repaid:
+- Monthly fixed costs and annual surplus:
+- Health cover, retirement contributions, statutory benefits, and household protection, in the terms of the user's country:
+- Past investing behavior and what they did in a drawdown:
+
+## 7. Time, daily life, and objective health
+
+- Hours, commute, and weekends:
+- Daily screen time and the source (system stats / screenshot / self-estimate):
+- Entertainment mix and the share of each: short video, YouTube, Instagram, newsletters, LinkedIn, Reddit, X, long-form video, games, news:
+- When it happens (commute / lunch / late night / childcare gaps) and the weekday versus weekend difference:
+- Content categories, and any account or post that clearly moved their thinking or mood:
+- How they say they feel afterward (rested / more anxious / an urge to buy or to quit). Record the self-report only:
+- Exercise, sleep, and daily habits:
+- Health facts that need ongoing management:
+
+## 8. Goals, preferences, and what is unacceptable
+
+- The direct trigger for this plan:
+- The 3–5 year aim:
+- Order of pay / stability / growth / freedom / family time:
+- What the next job must have, what is negotiable, and what is unacceptable:
+- Options or live opportunities already in view:
+
+## 9. Sources and confidence
+
+- The user's own account:
+- Resume and timeline:
+- Reviews, promotion materials, or defense decks:
+- Project documents, cases, portfolio, or research:
+- Job posts, offers, client feedback, or operating records:
+- Checked:
+- Not yet checked:
+
+## 10. Conflicts and gaps
+
+- Conflicts between sources:
+- Missing facts that would change a conclusion:
+- Facts the user chose not to provide:

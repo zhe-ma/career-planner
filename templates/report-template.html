@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -14,11 +14,11 @@
     *{box-sizing:border-box}
     html{scroll-behavior:smooth}
     body{margin:0;background:var(--bg);color:var(--body);
-      font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+      font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
       font-size:16px;line-height:1.9;-webkit-font-smoothing:antialiased}
     .page{width:min(920px,calc(100% - 32px));margin:0 auto;padding:38px 0 72px}
     .kicker{color:var(--blue);font-size:12px;font-weight:800;letter-spacing:.14em;text-transform:uppercase}
-    h1,h2{color:var(--ink);font-family:"Songti SC","STSong",Georgia,serif;font-weight:750}
+    h1,h2{color:var(--ink);font-family:"Iowan Old Style",Palatino,"Palatino Linotype",Georgia,serif;font-weight:750}
     h1{font-size:clamp(36px,5vw,54px);line-height:1.2;margin:14px 0 16px;letter-spacing:-.02em}
     h2{font-size:30px;line-height:1.35;margin:2px 0 16px;padding-bottom:12px;border-bottom:2px solid var(--ink)}
     h3{color:var(--blue-dark);font-size:19px;line-height:1.45;margin:30px 0 8px;padding-left:12px;border-left:4px solid var(--blue)}
@@ -36,7 +36,7 @@
     .opening{font-size:17px;color:#2c4258}
     blockquote,.hard-line{margin:24px 0;padding:18px 20px;border-left:5px solid var(--amber);
       background:var(--amber-bg);color:#5f2d05;font-size:17px;line-height:1.8}
-    blockquote{font-family:"Songti SC","STSong",Georgia,serif}
+    blockquote{font-family:"Iowan Old Style",Palatino,"Palatino Linotype",Georgia,serif}
     .hard-line strong{color:#7a2e0e}
     article{background:var(--paper);border:1px solid var(--line);border-radius:10px;
       padding:clamp(26px,5vw,52px);margin:0 0 22px;scroll-margin-top:18px;
@@ -49,12 +49,12 @@
     .toc b{color:#7dd3fc;font-size:12px;padding-top:3px;min-width:22px}
     .verdict-panel{background:var(--ink);color:#eaf2fa;border-radius:10px;padding:24px 26px;margin:24px 0}
     .verdict-panel .label{color:#93c5fd;font-size:12px;font-weight:800;letter-spacing:.12em}
-    .verdict-panel .main{font-family:"Songti SC","STSong",Georgia,serif;font-size:24px;line-height:1.5;color:#fff;margin:6px 0 16px}
+    .verdict-panel .main{font-family:"Iowan Old Style",Palatino,"Palatino Linotype",Georgia,serif;font-size:24px;line-height:1.5;color:#fff;margin:6px 0 16px}
     .verdict-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px 24px;border-top:1px solid rgba(255,255,255,.22);padding-top:16px;font-size:14px}
     .verdict-grid span{display:block;color:#a8c1d9;font-size:12px}
     .position-panel{background:var(--teal-dark);color:#e6f5f1;border-radius:10px;padding:28px;margin:22px 0}
     .position-panel .label{color:#5eead4;font-size:12px;font-weight:800;letter-spacing:.12em}
-    .position{font-family:"Songti SC","STSong",Georgia,serif;font-size:clamp(25px,4vw,36px);
+    .position{font-family:"Iowan Old Style",Palatino,"Palatino Linotype",Georgia,serif;font-size:clamp(25px,4vw,36px);
       line-height:1.45;color:#fff;margin:10px 0 12px}
     .position-panel p{color:#cfe7e1;margin:0}
     .action-panel{border:2px solid var(--amber);background:#fffaf2;border-radius:10px;padding:20px 22px;margin:22px 0}
@@ -62,10 +62,10 @@
     .danger{border-left:5px solid var(--red);background:var(--red-bg);padding:17px 20px;margin:22px 0;color:#64150f}
     .note{border-left:5px solid var(--teal);background:var(--green-bg);padding:17px 20px;margin:22px 0;color:#173f38}
     .care{border-left:5px solid var(--blue);background:#eef4fb;padding:17px 20px;margin:22px 0;
-      color:#2c4258;font-family:"Songti SC","STSong",Georgia,serif;font-size:16.5px;line-height:1.85}
+      color:#2c4258;font-family:"Iowan Old Style",Palatino,"Palatino Linotype",Georgia,serif;font-size:16.5px;line-height:1.85}
     .closing-letter{background:#fffaf2;border:1px solid #f0d9b5;border-radius:10px;padding:22px 24px;margin:24px 0;color:#5f2d05}
     .closing-letter .label{color:var(--amber);font-size:12px;font-weight:800;letter-spacing:.12em;margin-bottom:8px}
-    .closing-letter p{margin:0;font-family:"Songti SC","STSong",Georgia,serif;font-size:16.5px;line-height:1.9}
+    .closing-letter p{margin:0;font-family:"Iowan Old Style",Palatino,"Palatino Linotype",Georgia,serif;font-size:16.5px;line-height:1.9}
     table{width:100%;border-collapse:collapse;margin:18px 0 24px;font-size:14px;line-height:1.65}
     th,td{border-bottom:1px solid var(--line);padding:11px 10px;text-align:left;vertical-align:top}
     th{color:#fff;background:var(--blue-dark);font-weight:700}
@@ -116,291 +116,291 @@
 <body>
 <main class="page">
   <header>
-    <div class="kicker">职业战略顾问 · 深度报告</div>
+    <div class="kicker">Career Strategist · Full report</div>
     <h1>{{REPORT_TITLE}}</h1>
     <p class="subtitle">{{REPORT_SUBTITLE}}</p>
-    <p class="meta">报告日期：{{REPORT_DATE}} · 调研截止：{{MARKET_DATA_DATE}} · 建议复盘：{{REVIEW_DATE}}</p>
+    <p class="meta">Report date: {{REPORT_DATE}} · Research through: {{MARKET_DATA_DATE}} · Review by: {{REVIEW_DATE}}</p>
     <div class="rule"></div>
     <p class="opening">{{ADVISOR_OPENING}}</p>
     <blockquote>{{ADVISOR_CENTRAL_MESSAGE}}</blockquote>
     <p class="care">{{ADVISOR_FAIR_WORDS}}</p>
   </header>
 
-  <nav class="toc" aria-label="报告目录">
-    <h2>这份报告怎么读</h2>
+  <nav class="toc" aria-label="Contents">
+    <h2>How to read this report</h2>
     <div class="toc-grid">
-      <a href="#verdict"><b>01</b><span>先说结论：我的判断</span></a>
-      <a href="#situation"><b>02</b><span>你今天的处境</span></a>
-      <a href="#motive"><b>03</b><span>你为什么想离开</span></a>
-      <a href="#market"><b>04</b><span>外面的真实世界</span></a>
-      <a href="#options"><b>05</b><span>几个选择逐个算账</span></a>
-      <a href="#exploration"><b>06</b><span>自媒体、创业与学习审判</span></a>
-      <a href="#positioning"><b>07</b><span>最推荐的职业定位</span></a>
-      <a href="#action"><b>08</b><span>一年路线与九十天</span></a>
-      <a href="#finance"><b>09</b><span>钱与生活底盘</span></a>
-      <a href="#appendix"><b>10</b><span>事实档案与调研来源</span></a>
+      <a href="#verdict"><b>01</b><span>The call, first</span></a>
+      <a href="#situation"><b>02</b><span>Where you stand</span></a>
+      <a href="#motive"><b>03</b><span>Why you want to leave</span></a>
+      <a href="#market"><b>04</b><span>The market outside</span></a>
+      <a href="#options"><b>05</b><span>The ledger of choices</span></a>
+      <a href="#exploration"><b>06</b><span>Creator, startup, and study</span></a>
+      <a href="#positioning"><b>07</b><span>The one position</span></a>
+      <a href="#action"><b>08</b><span>One year, and the first 90 days</span></a>
+      <a href="#finance"><b>09</b><span>Money and the floor</span></a>
+      <a href="#appendix"><b>10</b><span>Facts and sources</span></a>
     </div>
   </nav>
 
   <article id="verdict">
-    <div class="kicker">01 · 先说结论</div>
-    <h2>我的判断</h2>
+    <div class="kicker">01 · The call</div>
+    <h2>The judgment</h2>
     <p>{{EXECUTIVE_NARRATIVE}}</p>
     <div class="verdict-panel">
-      <div class="label">关键判断</div>
+      <div class="label">The call</div>
       <div class="main">{{STAY_GO_VERDICT}}</div>
       <div class="verdict-grid">
-        <div><span>最推荐定位</span>{{RECOMMENDED_POSITION}}</div>
-        <div><span>现在明确不要做</span>{{NOT_RECOMMENDED_NOW}}</div>
-        <div><span>结论置信度</span>{{OVERALL_CONFIDENCE}}</div>
-        <div><span>未来 14 天第一步</span>{{FIRST_14_DAY_STEP}}</div>
+        <div><span>Recommended position</span>{{RECOMMENDED_POSITION}}</div>
+        <div><span>Do not do this now</span>{{NOT_RECOMMENDED_NOW}}</div>
+        <div><span>Confidence</span>{{OVERALL_CONFIDENCE}}</div>
+        <div><span>First 14 days</span>{{FIRST_14_DAY_STEP}}</div>
       </div>
     </div>
-    <h3>为什么这样判断</h3>
+    <h3>Why this call</h3>
     <p>{{EXECUTIVE_REASONING}}</p>
-    <h3>我会在什么情况下改口</h3>
+    <h3>What would change this call</h3>
     <p>{{DECISION_REVERSAL_CONDITIONS}}</p>
-    <div class="hard-line"><strong>先记住这一句：</strong>{{EXECUTIVE_HARD_LINE}}</div>
+    <div class="hard-line"><strong>Remember this:</strong> {{EXECUTIVE_HARD_LINE}}</div>
   </article>
 
   <article id="situation">
-    <div class="kicker">02 · 当前处境</div>
-    <h2>先把你今天的处境看清楚</h2>
-    <h3>你走到今天，靠的到底是什么</h3>
+    <div class="kicker">02 · Situation</div>
+    <h2>See where you actually stand</h2>
+    <h3>What actually got you here</h3>
     <p>{{CAREER_ASSET_NARRATIVE}}</p>
-    <h3>哪些是真本事，哪些是平台借给你的</h3>
+    <h3>What is yours, and what the platform lent you</h3>
     <p>{{TRANSFERABLE_VS_PLATFORM_ANALYSIS}}</p>
-    <h3>现在这份工作的真实价值</h3>
+    <h3>What this job is really worth</h3>
     <p>{{CURRENT_JOB_TRUE_VALUE}}</p>
-    <h3>它同时在消耗你什么</h3>
+    <h3>What it is costing you</h3>
     <p>{{CURRENT_JOB_TRUE_COST}}</p>
-    <h3>问题到底出在哪一层</h3>
+    <h3>Which layer the problem sits on</h3>
     <p>{{PROBLEM_LAYER_ANALYSIS}}</p>
-    <div class="diagram" aria-label="问题鱼骨图">
-      <div class="diagram-title">图 1｜问题鱼骨图：别把所有不舒服都算到“行业不行”头上</div>
+    <div class="diagram" aria-label="Problem fishbone">
+      <div class="diagram-title">Figure 1. Where the problem actually sits</div>
       <div class="fishbone">
-        <div class="bone"><b>个人能力与证据</b><span>{{FISHBONE_INDIVIDUAL}}</span></div>
-        <div class="bone"><b>岗位与定价</b><span>{{FISHBONE_ROLE_PRICING}}</span></div>
-        <div class="bone"><b>组织与管理</b><span>{{FISHBONE_ORGANIZATION}}</span></div>
-        <div class="bone"><b>行业与市场</b><span>{{FISHBONE_MARKET}}</span></div>
-        <div class="bone"><b>人生阶段</b><span>{{FISHBONE_LIFE_STAGE}}</span></div>
-        <div class="bone"><b>信息环境</b><span>{{FISHBONE_INFORMATION}}</span></div>
+        <div class="bone"><b>Skill and evidence</b><span>{{FISHBONE_INDIVIDUAL}}</span></div>
+        <div class="bone"><b>Role and price</b><span>{{FISHBONE_ROLE_PRICING}}</span></div>
+        <div class="bone"><b>Organization</b><span>{{FISHBONE_ORGANIZATION}}</span></div>
+        <div class="bone"><b>Industry and market</b><span>{{FISHBONE_MARKET}}</span></div>
+        <div class="bone"><b>Life stage</b><span>{{FISHBONE_LIFE_STAGE}}</span></div>
+        <div class="bone"><b>Information diet</b><span>{{FISHBONE_INFORMATION}}</span></div>
       </div>
-      <p class="diagram-note"><strong>核心问题：</strong>{{CORE_PROBLEM_STATEMENT}}。先找主骨，再决定动作大小。</p>
+      <p class="diagram-note"><strong>The core problem:</strong> {{CORE_PROBLEM_STATEMENT}}. Find the spine before sizing the move.</p>
     </div>
-    <div class="danger"><strong>顾问硬话：</strong>{{CURRENT_PATH_WARNING}}</div>
-    <h3>如果不换路，先把这条路走好</h3>
+    <div class="danger"><strong>The hard line:</strong> {{CURRENT_PATH_WARNING}}</div>
+    <h3>If you are not switching, work this path properly</h3>
     <p>{{MAKE_CURRENT_PATH_BETTER}}</p>
   </article>
 
   <article id="motive">
-    <div class="kicker">03 · 动机拆解</div>
-    <h2>你为什么会在这个时间点想离开</h2>
-    <h3>表面上发生了什么</h3>
+    <div class="kicker">03 · Motive</div>
+    <h2>Why leaving feels urgent now</h2>
+    <h3>What happened on the surface</h3>
     <p>{{SURFACE_TRIGGER_NARRATIVE}}</p>
-    <h3>往下再拆一层</h3>
+    <h3>One layer down</h3>
     <p>{{UNDERLYING_MOTIVE_ANALYSIS}}</p>
-    <h3>你最近看到的世界，可能并不完整</h3>
+    <h3>The world you have been shown is incomplete</h3>
     <p>{{INFORMATION_NOISE_ANALYSIS}}</p>
-    <h3>你真正想解决的问题</h3>
+    <h3>The problem you actually want solved</h3>
     <p>{{CORE_CONFLICT_ANALYSIS}}</p>
-    <h3>有几个想法，必须说透</h3>
+    <h3>A few ideas that have to be said plainly</h3>
     <p>{{BELIEF_DEEP_REVIEW}}</p>
     <p class="care">{{MOTIVE_COMFORT_WORDS}}</p>
-    <div class="hard-line"><strong>顾问硬话：</strong>{{MOTIVE_PLAIN_VERDICT}}</div>
+    <div class="hard-line"><strong>The hard line:</strong> {{MOTIVE_PLAIN_VERDICT}}</div>
   </article>
 
   <article id="market">
-    <div class="kicker">04 · 外部调研</div>
-    <h2>外面的世界，究竟是什么样</h2>
+    <div class="kicker">04 · The market</div>
+    <h2>What the outside world actually looks like</h2>
     <p>{{MARKET_RESEARCH_OPENING}}</p>
-    <h3>你所在的行业，正处在什么阶段</h3>
+    <h3>What stage your industry is in</h3>
     <p>{{INDUSTRY_CYCLE_ANALYSIS}}</p>
-    <h3>真实岗位在招什么人</h3>
+    <h3>Who the real jobs are hiring</h3>
     <p>{{JOB_SAMPLE_ANALYSIS}}</p>
     <table>
-      <thead><tr><th>岗位方向</th><th>市场真正要求</th><th>收入口径</th><th>与你的关系</th></tr></thead>
+      <thead><tr><th>Role</th><th>What the market actually requires</th><th>Pay definition</th><th>What it means for you</th></tr></thead>
       <tbody>{{JOB_SAMPLE_ROWS}}</tbody>
     </table>
-    <h3>你的价格，为什么是这个数</h3>
+    <h3>Why your price is this number</h3>
     <p>{{PERSONAL_PRICING_ANALYSIS}}</p>
-    <h3>AI 对你的影响，要拆到每天的工作里看</h3>
+    <h3>What AI does to your actual week</h3>
     <p>{{AI_TASK_DEEP_ANALYSIS}}</p>
-    <h3>目标工作的真实日常，你未必喜欢</h3>
+    <h3>The real day of the target job, which you may not like</h3>
     <p>{{TARGET_ROLE_DAILY_REALITY}}</p>
-    <h3>如果三年不出现奇迹，会怎样</h3>
+    <h3>If no miracle arrives in three years</h3>
     <p>{{BASE_CASE_SCENARIO}}</p>
-    <p class="sources"><strong>调研口径与来源：</strong>{{MARKET_SOURCES_AND_LIMITS}}</p>
-    <div class="hard-line"><strong>顾问硬话：</strong>{{MARKET_HARD_LINE}}</div>
+    <p class="sources"><strong>Sources and definitions:</strong> {{MARKET_SOURCES_AND_LIMITS}}</p>
+    <div class="hard-line"><strong>The hard line:</strong> {{MARKET_HARD_LINE}}</div>
   </article>
 
   <article id="options">
-    <div class="kicker">05 · 选择算账</div>
-    <h2>几个选择，逐个把账算完</h2>
+    <div class="kicker">05 · The ledger</div>
+    <h2>Each choice, with the account written out</h2>
     <p>{{OPTIONS_FRAMING}}</p>
-    <div class="diagram" aria-label="去留决策图">
-      <div class="diagram-title">图 2｜去留决策图：动作越不可逆，证据门槛越高</div>
+    <div class="diagram" aria-label="Stay or go">
+      <div class="diagram-title">Figure 2. The less reversible the move, the higher the evidence bar</div>
       <div class="flow">
-        <div class="flow-node"><b>先定位问题</b><span>{{DECISION_FLOW_PROBLEM}}</span></div>
+        <div class="flow-node"><b>Name the problem</b><span>{{DECISION_FLOW_PROBLEM}}</span></div>
         <div class="flow-arrow">→</div>
-        <div class="flow-node"><b>再盘可带走资本</b><span>{{DECISION_FLOW_CAPITAL}}</span></div>
+        <div class="flow-node"><b>Count what travels</b><span>{{DECISION_FLOW_CAPITAL}}</span></div>
         <div class="flow-arrow">→</div>
-        <div class="flow-node"><b>先做可逆测试</b><span>{{DECISION_FLOW_TEST}}</span></div>
+        <div class="flow-node"><b>Test what you can undo</b><span>{{DECISION_FLOW_TEST}}</span></div>
         <div class="flow-arrow">→</div>
-        <div class="flow-node"><b>证据够了再下注</b><span>{{DECISION_FLOW_VERDICT}}</span></div>
+        <div class="flow-node"><b>Bet after the evidence</b><span>{{DECISION_FLOW_VERDICT}}</span></div>
       </div>
     </div>
-    <h3>选择一：留在原地，但主动经营</h3>
+    <h3>Option 1: Stay, and work the job</h3>
     <p>{{OPTION_STAY_AND_BUILD}}</p>
-    <h3>选择二：先在内部换位置</h3>
+    <h3>Option 2: Move inside the company</h3>
     <p>{{OPTION_INTERNAL_MOVE}}</p>
-    <h3>选择三：同行换一家公司</h3>
+    <h3>Option 3: A new company in the same industry</h3>
     <p>{{OPTION_SAME_INDUSTRY_MOVE}}</p>
-    <h3>选择四：贴着已有积累，换到相邻方向</h3>
+    <h3>Option 4: An adjacent move that keeps the capital</h3>
     <p>{{OPTION_ADJACENT_MOVE}}</p>
-    <h3>选择五：真正换行</h3>
+    <h3>Option 5: A real career switch</h3>
     <p>{{OPTION_INDUSTRY_SWITCH}}</p>
-    <h3>选择六：把新尝试放在业余时间</h3>
+    <h3>Option 6: Keep the experiment on the side</h3>
     <p>{{OPTION_SIDE_PATH}}</p>
-    <h3>三种未来放在一起看</h3>
+    <h3>Three futures, side by side</h3>
     <p>{{THREE_FUTURES_COMPARISON}}</p>
     <div class="verdict-panel">
-      <div class="label">选择排序</div>
+      <div class="label">The ranking</div>
       <div class="main">{{OPTIONS_RANKING_VERDICT}}</div>
       <p style="margin:0;color:#c6d8ea">{{OPTIONS_RANKING_REASON}}</p>
     </div>
   </article>
 
   <article id="exploration">
-    <div class="kicker">06 · 新方向审判</div>
-    <h2>想做自媒体、创业，或者学新东西，先过这一关</h2>
+    <div class="kicker">06 · The experiment</div>
+    <h2>A creator business, a startup, or a new skill has to pass this gate</h2>
     <p>{{EXPLORATION_OPENING}}</p>
-    <h3>你被它吸引的，可能不是这门生意本身</h3>
+    <h3>What attracts you may not be the business</h3>
     <p>{{EXPLORATION_DESIRE_ANALYSIS}}</p>
-    <h3>把它当生意看，账在哪里</h3>
+    <h3>Read it as a business</h3>
     <p>{{EXPLORATION_BUSINESS_ANALYSIS}}</p>
-    <h3>你已经走到了哪一步</h3>
+    <h3>Which step you have actually reached</h3>
     <p>{{EXPLORATION_EVIDENCE_ANALYSIS}}</p>
-    <div class="diagram" aria-label="探索证据阶梯">
-      <div class="diagram-title">图 3｜证据阶梯：走完一级，才谈下一级</div>
+    <div class="diagram" aria-label="Evidence ladder">
+      <div class="diagram-title">Figure 3. Finish one step before talking about the next</div>
       <div class="evidence-steps">
-        <div><b>1 兴趣</b>愿意做</div>
-        <div><b>2 产出</b>稳定完成</div>
-        <div><b>3 需求</b>有人主动来</div>
-        <div><b>4 付费</b>陌生人买单</div>
-        <div><b>5 重复</b>复购与转介</div>
-        <div><b>6 经营</b>扣完时间还成立</div>
+        <div><b>1 Interest</b>Willing</div>
+        <div><b>2 Output</b>Ships steadily</div>
+        <div><b>3 Demand</b>People ask</div>
+        <div><b>4 Payment</b>A stranger pays</div>
+        <div><b>5 Repeat</b>Repeat or referral</div>
+        <div><b>6 Business</b>Holds after time</div>
       </div>
       <p class="diagram-note">{{EXPLORATION_EVIDENCE_POSITION}}</p>
     </div>
-    <h3>它与原来的积累，是加法还是清零</h3>
+    <h3>Does it add to the old capital, or zero it</h3>
     <p>{{EXPLORATION_CAPITAL_RELATION}}</p>
-    <h3>如果要学东西，先回答为谁而学</h3>
+    <h3>If you will study, say who it is for</h3>
     <p>{{LEARNING_DEEP_ANALYSIS}}</p>
-    <div class="danger"><strong>我的明确态度：</strong>{{EXPLORATION_VERDICT}}</div>
-    <h3>可以继续，但边界先说清</h3>
+    <div class="danger"><strong>The position:</strong> {{EXPLORATION_VERDICT}}</div>
+    <h3>You may continue, inside a boundary</h3>
     <p>{{EXPLORATION_GUARDRAILS}}</p>
   </article>
 
   <article id="positioning">
-    <div class="kicker">07 · 职业定位</div>
-    <h2>我最推荐你成为什么样的人</h2>
+    <div class="kicker">07 · Position</div>
+    <h2>The person I recommend you become</h2>
     <div class="position-panel">
-      <div class="label">唯一最推荐定位</div>
+      <div class="label">The single recommended position</div>
       <p class="position">{{RECOMMENDED_POSITION}}</p>
       <p>{{RECOMMENDED_POSITION_EXPLANATION}}</p>
     </div>
-    <h3>为什么市场愿意付钱</h3>
+    <h3>Why the market will pay</h3>
     <p>{{WHY_MARKET_PAYS}}</p>
-    <h3>为什么适合你，而不是适合所有人</h3>
+    <h3>Why it fits you, and not everyone</h3>
     <p>{{WHY_USER_FITS}}</p>
-    <h3>未来 3–5 年，价值会往哪里走</h3>
+    <h3>Where value moves over the next 3–5 years</h3>
     <p>{{FUTURE_VALUE_SHIFT}}</p>
-    <div class="diagram" aria-label="定位能力架构图">
-      <div class="diagram-title">图 4｜定位能力架构：底盘越厚，上层才值钱</div>
+    <div class="diagram" aria-label="Capability stack">
+      <div class="diagram-title">Figure 4. The upper layers are worth something only if the base is thick</div>
       <div class="stack-diagram">
-        <div class="stack-layer"><b>第一层 · 领域底盘</b><span>{{POSITION_LAYER_DOMAIN}}</span></div>
-        <div class="stack-layer"><b>第二层 · 专业判断</b><span>{{POSITION_LAYER_JUDGMENT}}</span></div>
-        <div class="stack-layer"><b>第三层 · 流程落地</b><span>{{POSITION_LAYER_EXECUTION}}</span></div>
-        <div class="stack-layer"><b>第四层 · 质量与风险</b><span>{{POSITION_LAYER_GOVERNANCE}}</span></div>
-        <div class="stack-layer"><b>第五层 · 规模采用</b><span>{{POSITION_LAYER_SCALE}}</span></div>
-        <div class="stack-layer"><b>顶层 · 结果证据</b><span>{{POSITION_LAYER_PROOF}}</span></div>
+        <div class="stack-layer"><b>1 · Domain base</b><span>{{POSITION_LAYER_DOMAIN}}</span></div>
+        <div class="stack-layer"><b>2 · Judgment</b><span>{{POSITION_LAYER_JUDGMENT}}</span></div>
+        <div class="stack-layer"><b>3 · Process</b><span>{{POSITION_LAYER_EXECUTION}}</span></div>
+        <div class="stack-layer"><b>4 · Quality and risk</b><span>{{POSITION_LAYER_GOVERNANCE}}</span></div>
+        <div class="stack-layer"><b>5 · Scaled adoption</b><span>{{POSITION_LAYER_SCALE}}</span></div>
+        <div class="stack-layer"><b>Top · Proof</b><span>{{POSITION_LAYER_PROOF}}</span></div>
       </div>
     </div>
-    <h3>你要补的，不是更多零散技能</h3>
+    <h3>What to add is not another pile of skills</h3>
     <p>{{CAPABILITY_BUILD_NARRATIVE}}</p>
-    <h3>从今天的位置，怎么一步步走过去</h3>
+    <h3>How to walk there from here</h3>
     <p>{{POSITION_PATH_NARRATIVE}}</p>
-    <h3>哪些岗位看着接近，其实别去</h3>
+    <h3>Roles that look close, and should be avoided</h3>
     <p>{{POSITIONS_TO_AVOID}}</p>
-    <div class="hard-line"><strong>顾问硬话：</strong>{{POSITION_HARD_LINE}}</div>
+    <div class="hard-line"><strong>The hard line:</strong> {{POSITION_HARD_LINE}}</div>
   </article>
 
   <article id="action">
-    <div class="kicker">08 · 行动路线</div>
-    <h2>接下来一年怎么做，先做哪九十天</h2>
-    <h3>主线、副线和不能碰的线</h3>
+    <div class="kicker">08 · The plan</div>
+    <h2>The next year, starting with ninety days</h2>
+    <h3>The main line, the side line, and the line you do not touch</h3>
     <p>{{PLAN_PORTFOLIO_EXPLANATION}}</p>
     <p class="care">{{ACTION_ENCOURAGEMENT}}</p>
-    <div class="action-panel"><strong>未来 14 天只抓一件事：</strong>{{FIRST_14_DAY_STEP}}</div>
-    <h3>未来 12 个月的路线</h3>
+    <div class="action-panel"><strong>The only job for the next 14 days:</strong> {{FIRST_14_DAY_STEP}}</div>
+    <h3>The next 12 months</h3>
     <p>{{TWELVE_MONTH_PLAN}}</p>
-    <h3>第 1–14 天：先校准</h3>
+    <h3>Days 1–14: Calibrate</h3>
     <p>{{ACTION_14_DAYS}}</p>
-    <h3>第 15–30 天：拿出第一批证据</h3>
+    <h3>Days 15–30: Produce the first evidence</h3>
     <p>{{ACTION_30_DAYS}}</p>
-    <h3>第 31–60 天：去碰真实市场</h3>
+    <h3>Days 31–60: Meet the real market</h3>
     <p>{{ACTION_60_DAYS}}</p>
-    <h3>第 61–90 天：根据反馈决定</h3>
+    <h3>Days 61–90: Decide from the feedback</h3>
     <p>{{ACTION_90_DAYS}}</p>
-    <h3>什么信号说明走对了，什么信号说明该停</h3>
+    <h3>Which signals mean continue, and which mean stop</h3>
     <p>{{SIGNALS_AND_STOPPING_RULES}}</p>
   </article>
 
   <article id="finance">
-    <div class="kicker">09 · 财务底盘</div>
-    <h2>钱和生活，只说和选择有关的部分</h2>
+    <div class="kicker">09 · Money</div>
+    <h2>Money and life, only where they change the choice</h2>
     <p>{{FINANCIAL_CHOICE_ANALYSIS}}</p>
-    <h3>你能承受多大的过渡</h3>
+    <h3>How large a transition you can carry</h3>
     <p>{{TRANSITION_CAPACITY_ANALYSIS}}</p>
-    <h3>哪些底线不能为了梦想先动</h3>
+    <h3>Which floors do not move for a dream</h3>
     <p>{{FINANCIAL_GUARDRAILS}}</p>
-    <div class="note"><strong>最后提醒：</strong>{{FINAL_ADVISOR_WORDS}}</div>
-    <div class="closing-letter"><div class="label">最后，说几句心里话</div><p>{{CLOSING_LETTER}}</p></div>
+    <div class="note"><strong>Last reminder:</strong> {{FINAL_ADVISOR_WORDS}}</div>
+    <div class="closing-letter"><div class="label">A short letter</div><p>{{CLOSING_LETTER}}</p></div>
   </article>
 
   <article id="appendix">
-    <div class="kicker">10 · 附录 A</div>
-    <h2>个人信息档案（只记事实）</h2>
-    <p class="sources">本附录只整理材料中出现的事实；判断请看前文。对外分享前，自行删去不愿公开的细节。</p>
+    <div class="kicker">10 · Appendix A</div>
+    <h2>Personal facts only</h2>
+    <p class="sources">This appendix lists facts from the materials. Judgments are in the chapters above. Before sharing, delete details you do not want public.</p>
     <details open>
-      <summary>基本情况与家庭</summary>
+      <summary>Basics and household</summary>
       <dl class="facts">
-        <dt>称呼</dt><dd>{{PROFILE_NAME}}</dd>
-        <dt>年龄阶段</dt><dd>{{PROFILE_AGE}}</dd>
-        <dt>所在城市</dt><dd>{{PROFILE_CITY}}</dd>
-        <dt>家庭状态</dt><dd>{{PROFILE_FAMILY}}</dd>
-        <dt>家庭责任</dt><dd>{{PROFILE_FAMILY_RESPONSIBILITY}}</dd>
+        <dt>Name</dt><dd>{{PROFILE_NAME}}</dd>
+        <dt>Age band</dt><dd>{{PROFILE_AGE}}</dd>
+        <dt>Labor market</dt><dd>{{PROFILE_CITY}}</dd>
+        <dt>Household</dt><dd>{{PROFILE_FAMILY}}</dd>
+        <dt>Family duties</dt><dd>{{PROFILE_FAMILY_RESPONSIBILITY}}</dd>
       </dl>
     </details>
-    <details><summary>教育、资质与语言</summary><p>{{PROFILE_EDUCATION_SUMMARY}}</p></details>
+    <details><summary>Education, credentials, and languages</summary><p>{{PROFILE_EDUCATION_SUMMARY}}</p></details>
     <details>
-      <summary>工作履历与材料清单</summary>
+      <summary>Work history and materials read</summary>
       <p>{{PROFILE_WORK_HISTORY}}</p>
-      <p><strong>本次阅读材料：</strong>{{PROFILE_MATERIALS_READ}}</p>
+      <p><strong>Materials read:</strong> {{PROFILE_MATERIALS_READ}}</p>
     </details>
-    <details><summary>项目成果与本人贡献</summary><p>{{PROFILE_ACHIEVEMENTS}}</p><p>{{PROFILE_CONTRIBUTION_BOUNDARY}}</p></details>
-    <details><summary>能力、资源与过往尝试</summary><p>{{PROFILE_SKILLS_RESOURCES}}</p><p>{{PROFILE_EXPLORATION_HISTORY}}</p></details>
-    <details><summary>收入、资产、负债与保障</summary><p>{{PROFILE_FINANCIAL_FACTS}}</p></details>
-    <details><summary>时间、日常与健康事实</summary><p>{{PROFILE_TIME_HEALTH_FACTS}}</p></details>
-    <details><summary>目标、约束与不可接受项</summary><p>{{PROFILE_GOALS_CONSTRAINTS}}</p></details>
-    <details><summary>信息缺口、材料冲突与待核实项</summary><p>{{PROFILE_GAPS_AND_CONFLICTS}}</p></details>
-    <h3>附录 B｜调研来源与方法说明</h3>
+    <details><summary>Projects and personal contribution</summary><p>{{PROFILE_ACHIEVEMENTS}}</p><p>{{PROFILE_CONTRIBUTION_BOUNDARY}}</p></details>
+    <details><summary>Skills, resources, and past attempts</summary><p>{{PROFILE_SKILLS_RESOURCES}}</p><p>{{PROFILE_EXPLORATION_HISTORY}}</p></details>
+    <details><summary>Income, assets, debts, and protection</summary><p>{{PROFILE_FINANCIAL_FACTS}}</p></details>
+    <details><summary>Time, daily life, and health facts</summary><p>{{PROFILE_TIME_HEALTH_FACTS}}</p></details>
+    <details><summary>Goals, constraints, and what is unacceptable</summary><p>{{PROFILE_GOALS_CONSTRAINTS}}</p></details>
+    <details><summary>Gaps, conflicts, and items still to check</summary><p>{{PROFILE_GAPS_AND_CONFLICTS}}</p></details>
+    <h3>Appendix B. Sources and method</h3>
     <p>{{RESEARCH_METHOD_AND_SOURCES}}</p>
     <p>{{RESEARCH_LIMITATIONS}}</p>
   </article>
 
-  <footer>本报告基于截至 {{REPORT_DATE}} 的个人信息与调研。事实变化后，结论应重新评估。</footer>
+  <footer>This report uses personal facts and research through {{REPORT_DATE}}. If the facts change, the conclusion should be reassessed.</footer>
 </main>
 </body>
 </html>

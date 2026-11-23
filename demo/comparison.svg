@@ -1,106 +1,109 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="896" viewBox="0 0 1200 896" role="img" aria-label="Career Strategist 与常见职业规划 Skill 对比表">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="980" viewBox="0 0 1200 980" role="img" aria-label="How Career Strategist differs from a typical career-planning skill">
   <defs>
     <linearGradient id="head" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#0f2a4a"/>
       <stop offset="1" stop-color="#123f3a"/>
     </linearGradient>
   </defs>
-  <rect x="0" y="0" width="1200" height="896" rx="18" fill="#ffffff"/>
-  <rect x="0" y="0" width="1200" height="896" rx="18" fill="none" stroke="#d7e0ea"/>
+  <rect width="1200" height="980" rx="18" fill="#ffffff"/>
+  <rect width="1200" height="980" rx="18" fill="none" stroke="#d7e0ea"/>
 
-  <text x="44" y="52" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="27" font-weight="800" fill="#10233b">跟常见的职业规划 Skill 比，差在哪</text>
-  <text x="44" y="80" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="14.5" fill="#68798c">对比对象为市面上常见的“问答式 / 模板式”职业规划做法，不针对具体产品</text>
+  <text x="40" y="48" font-family="Georgia,'Iowan Old Style',serif" font-size="26" fill="#10233b">Where this differs from a typical career skill</text>
+  <text x="40" y="76" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#68798c">Compared with common question-and-template career tools, not with a named product.</text>
 
-  <!-- header -->
-  <rect x="24" y="100" width="1152" height="54" rx="8" fill="url(#head)"/>
-  <g font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="15" font-weight="800" fill="#ffffff">
-    <text x="44" y="134">对比维度</text>
-    <text x="268" y="134">常见职业规划 Skill</text>
-    <text x="700" y="134">Career Strategist（本 Skill）</text>
+  <rect x="24" y="96" width="1152" height="48" rx="8" fill="url(#head)"/>
+  <g font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#ffffff">
+    <text x="40" y="126">Dimension</text>
+    <text x="220" y="126">Typical career skill</text>
+    <text x="680" y="126">Career Strategist</text>
   </g>
 
-  <!-- rows: y starts 154, each 84 -->
-  <g font-family="'PingFang SC','Microsoft YaHei',sans-serif">
-    <!-- row backgrounds -->
-    <rect x="24" y="154" width="1152" height="84" fill="#ffffff"/>
-    <rect x="24" y="238" width="1152" height="84" fill="#f4f8fb"/>
-    <rect x="24" y="322" width="1152" height="84" fill="#ffffff"/>
-    <rect x="24" y="406" width="1152" height="84" fill="#f4f8fb"/>
-    <rect x="24" y="490" width="1152" height="84" fill="#ffffff"/>
-    <rect x="24" y="574" width="1152" height="84" fill="#f4f8fb"/>
-    <rect x="24" y="658" width="1152" height="84" fill="#ffffff"/>
-    <rect x="24" y="742" width="1152" height="84" fill="#f4f8fb"/>
-    <g stroke="#e2eaf2"><path d="M24 238H1176M24 322H1176M24 406H1176M24 490H1176M24 574H1176M24 658H1176M24 742H1176M24 826H1176"/></g>
-    <rect x="676" y="154" width="500" height="672" fill="#eaf6f1" opacity="0.55"/>
-    <g stroke="#d7e0ea"><path d="M244 154V826M676 154V826"/></g>
+  <g font-family="Helvetica,Arial,sans-serif">
+    <rect x="24" y="144" width="1152" height="92" fill="#ffffff"/>
+    <rect x="24" y="236" width="1152" height="92" fill="#f4f8fb"/>
+    <rect x="24" y="328" width="1152" height="92" fill="#ffffff"/>
+    <rect x="24" y="420" width="1152" height="92" fill="#f4f8fb"/>
+    <rect x="24" y="512" width="1152" height="92" fill="#ffffff"/>
+    <rect x="24" y="604" width="1152" height="92" fill="#f4f8fb"/>
+    <rect x="24" y="696" width="1152" height="92" fill="#ffffff"/>
+    <rect x="24" y="788" width="1152" height="92" fill="#f4f8fb"/>
+    <rect x="656" y="144" width="520" height="736" fill="#eaf6f1" opacity="0.55"/>
+    <g stroke="#e2eaf2">
+      <path d="M24 236H1176M24 328H1176M24 420H1176M24 512H1176M24 604H1176M24 696H1176M24 788H1176M24 880H1176"/>
+    </g>
+    <g stroke="#d7e0ea"><path d="M200 144V880M656 144V880"/></g>
 
-    <!-- dimension labels -->
-    <g font-size="16" font-weight="800" fill="#10233b">
-      <text x="44" y="203">信息输入</text>
-      <text x="44" y="287">市场信息</text>
-      <text x="44" y="371">顾问立场</text>
-      <text x="44" y="455">推理深度</text>
-      <text x="44" y="539">结论形式</text>
-      <text x="44" y="623">新方向判断</text>
-      <text x="44" y="707">行动计划</text>
-      <text x="44" y="791">最终交付</text>
+    <g font-size="15" font-weight="700" fill="#10233b">
+      <text x="40" y="196">Input</text>
+      <text x="40" y="288">Market</text>
+      <text x="40" y="380">Stance</text>
+      <text x="40" y="472">Reasoning</text>
+      <text x="40" y="564">Conclusion</text>
+      <text x="40" y="656">New paths</text>
+      <text x="40" y="748">Action</text>
+      <text x="40" y="840">Delivery</text>
     </g>
 
-    <!-- common column -->
-    <g font-size="14" fill="#5b6b7d">
-      <text x="268" y="190"><tspan fill="#b42318" font-weight="800">✕ </tspan>只看一段自述，最多扫一眼简历</text>
-      <text x="268" y="214">材料里的冲突和水分没人管</text>
+    <g font-size="13.5" fill="#5b6b7d">
+      <text x="216" y="182"><tspan fill="#b42318" font-weight="700">✕ </tspan>A short self-description, maybe a glance</text>
+      <text x="216" y="204">at the resume. Conflicts and padding</text>
+      <text x="216" y="226">in the materials go unchallenged.</text>
 
-      <text x="268" y="274"><tspan fill="#b42318" font-weight="800">✕ </tspan>凭印象谈趋势，薪资张口就来</text>
-      <text x="268" y="298">数据没日期、没城市、没来源</text>
+      <text x="216" y="274"><tspan fill="#b42318" font-weight="700">✕ </tspan>Trends and salaries from impression.</text>
+      <text x="216" y="296">No date, no city, no source.</text>
 
-      <text x="268" y="358"><tspan fill="#b42318" font-weight="800">✕ </tspan>用户想转行，就帮他论证转行</text>
-      <text x="268" y="382">用户想创业，就帮他算梦想</text>
+      <text x="216" y="366"><tspan fill="#b42318" font-weight="700">✕ </tspan>If you want to switch, it argues for</text>
+      <text x="216" y="388">the switch. If you want a startup,</text>
+      <text x="216" y="410">it prices the dream.</text>
 
-      <text x="268" y="442"><tspan fill="#b42318" font-weight="800">✕ </tspan>直接给结论，理由两三句</text>
-      <text x="268" y="466">换个说法再问，结论可能就变了</text>
+      <text x="216" y="458"><tspan fill="#b42318" font-weight="700">✕ </tspan>A conclusion and two sentences.</text>
+      <text x="216" y="480">Ask it another way and the answer</text>
+      <text x="216" y="502">may change.</text>
 
-      <text x="268" y="526"><tspan fill="#b42318" font-weight="800">✕ </tspan>罗列 5–10 个方向，让用户自己选</text>
-      <text x="268" y="550">看着全面，其实是把判断推回给用户</text>
+      <text x="216" y="550"><tspan fill="#b42318" font-weight="700">✕ </tspan>Five to ten directions, and the</text>
+      <text x="216" y="572">choice is handed back to you.</text>
 
-      <text x="268" y="610"><tspan fill="#b42318" font-weight="800">✕ </tspan>看兴趣和成功故事就鼓励尝试</text>
-      <text x="268" y="634">“有人做成了”被当成“你也能成”</text>
+      <text x="216" y="642"><tspan fill="#b42318" font-weight="700">✕ </tspan>Interest and a success story are</text>
+      <text x="216" y="664">treated as "you can do it too."</text>
 
-      <text x="268" y="694"><tspan fill="#b42318" font-weight="800">✕ </tspan>“多学习、多 networking、提升认知”</text>
-      <text x="268" y="718">没有期限，没有验收标准</text>
+      <text x="216" y="734"><tspan fill="#b42318" font-weight="700">✕ </tspan>"Learn more. Network more."</text>
+      <text x="216" y="756">No deadline and no test.</text>
 
-      <text x="268" y="778"><tspan fill="#b42318" font-weight="800">✕ </tspan>一次性聊天回复，聊完就散</text>
-      <text x="268" y="802">事实、观点、猜测混在一起</text>
+      <text x="216" y="826"><tspan fill="#b42318" font-weight="700">✕ </tspan>One chat reply. Facts, opinions,</text>
+      <text x="216" y="848">and guesses are mixed together.</text>
     </g>
 
-    <!-- ours column -->
-    <g font-size="14" fill="#22384f">
-      <text x="700" y="190"><tspan fill="#087f6f" font-weight="800">✓ </tspan>批量读简历、述职、项目、答辩、作品</text>
-      <text x="700" y="214">本人贡献、平台成绩、外部验证分开记；冲突集中追问，缺关键事实先暂停</text>
+    <g font-size="13.5" fill="#22384f">
+      <text x="676" y="182"><tspan fill="#087f6f" font-weight="700">✓ </tspan>Reads the resume, reviews, projects,</text>
+      <text x="676" y="204">defense, and portfolio. Separates your</text>
+      <text x="676" y="226">credit from the platform. Stops if a fact is missing.</text>
 
-      <text x="700" y="274"><tspan fill="#087f6f" font-weight="800">✓ </tspan>主动调研行业周期、真实 JD 样本、收入口径</text>
-      <text x="700" y="298">拆 AI 对具体任务的冲击；每个数据标日期、城市与来源，查不到就明说</text>
+      <text x="676" y="274"><tspan fill="#087f6f" font-weight="700">✓ </tspan>Researches the cycle, real postings,</text>
+      <text x="676" y="296">and the pay definition. Each number has</text>
+      <text x="676" y="318">a date, a city, and a source.</text>
 
-      <text x="700" y="358"><tspan fill="#087f6f" font-weight="800">✓ </tspan>现有积累享有优先辩护权</text>
-      <text x="700" y="382">换行、自媒体、创业属于“不可逆动作”，必须先举证、先算退出成本</text>
+      <text x="676" y="366"><tspan fill="#087f6f" font-weight="700">✓ </tspan>Existing capital gets the defense.</text>
+      <text x="676" y="388">A switch, a creator business, or a startup</text>
+      <text x="676" y="410">must show evidence and an exit cost.</text>
 
-      <text x="700" y="442"><tspan fill="#087f6f" font-weight="800">✓ </tspan>每个结论走完整推理链：</text>
-      <text x="700" y="466">事实 → 反方解释 → 调研校准 → 算账 → 判断 → 什么证据会让我改口</text>
+      <text x="676" y="458"><tspan fill="#087f6f" font-weight="700">✓ </tspan>Fact, the other explanation, research,</text>
+      <text x="676" y="480">the ledger, the call, and what evidence</text>
+      <text x="676" y="502">would change it.</text>
 
-      <text x="700" y="526"><tspan fill="#087f6f" font-weight="800">✓ </tspan>只给 1 个最推荐定位，外加选择排序</text>
-      <text x="700" y="550">明确“现在不要做”清单；判断下错了，也知道是哪一步错了</text>
+      <text x="676" y="550"><tspan fill="#087f6f" font-weight="700">✓ </tspan>One recommended position, a ranking,</text>
+      <text x="676" y="572">and a list of what not to do now.</text>
 
-      <text x="700" y="610"><tspan fill="#087f6f" font-weight="800">✓ </tspan>六级证据阶梯 + 生意账一起审</text>
-      <text x="700" y="634">没人付费就不算副业；学习必须挂到目标岗位和可展示作品上</text>
+      <text x="676" y="642"><tspan fill="#087f6f" font-weight="700">✓ </tspan>A six-step evidence ladder plus the</text>
+      <text x="676" y="664">business ledger. No payment, no side job.</text>
 
-      <text x="700" y="694"><tspan fill="#087f6f" font-weight="800">✓ </tspan>14 / 30 / 60 / 90 天分段验证</text>
-      <text x="700" y="718">每段有交付物、达标信号和停止条件，用市场反馈而不是感觉推进</text>
+      <text x="676" y="734"><tspan fill="#087f6f" font-weight="700">✓ </tspan>14 / 30 / 60 / 90 days. Each block has</text>
+      <text x="676" y="756">a deliverable, a pass signal, and a stop.</text>
 
-      <text x="700" y="778"><tspan fill="#087f6f" font-weight="800">✓ </tspan>纯事实档案 + 深度 HTML 报告</text>
-      <text x="700" y="802">目录、鱼骨图、决策图、能力架构；事实与判断分开存档，可复盘</text>
+      <text x="676" y="826"><tspan fill="#087f6f" font-weight="700">✓ </tspan>A fact dossier plus a long HTML report.</text>
+      <text x="676" y="848">Facts and judgments are stored apart.</text>
     </g>
   </g>
 
-  <rect x="24" y="842" width="1152" height="38" rx="8" fill="#0f2a4a"/>
-  <text x="600" y="867" text-anchor="middle" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="14.5" font-weight="700" fill="#ffffff">一句话：别人给你“方向感”，它给你证据、账本、一个主张和 90 天的验证办法</text>
+  <rect x="24" y="908" width="1152" height="44" rx="8" fill="#0f2a4a"/>
+  <text x="600" y="936" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#ffffff">Others offer a feeling of direction. This offers evidence, a ledger, one claim, and a 90-day test.</text>
 </svg>

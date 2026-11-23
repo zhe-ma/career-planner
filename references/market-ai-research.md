@@ -1,162 +1,173 @@
-# 外部现实校准：市场、岗位、薪资与 AI 冲击
+# External reality check: market, roles, pay, and AI
 
-职业建议必须落在真实岗位上，不能只引用宏观新闻。调研的目标是回答：市场是否需要这个定位、愿意付多少钱、用户凭什么胜出。
+Career advice has to land on real jobs. Macro headlines are not enough. Research answers three questions: does the market need this position, what will it pay, and why would this person win.
 
-调研不是给结论贴来源，而是参与形成判断。每完成一组调研，都要多写一步：这组证据说明了什么、没有说明什么、它让顾问更倾向于哪条路。报告正文应让用户看见推理过程，而不是只看见调研结果的摘要。
+Research is part of the judgment, not a source pasted under a conclusion that was already chosen. After each batch, write one more step: what the evidence shows, what it does not show, and which path it makes more likely. The report should let the reader see the reasoning, not only a summary of findings.
 
-还要主动对抗这个时代最常见的三种误导：
+Actively resist the three most common distortions:
 
-- **只看头部故事**：平台和媒体天然放大极少数赢家，必须寻找分布、中位数、普通从业者样本和失败样本；
-- **只看招聘广告**：岗位挂出来不等于需求旺盛，薪资上限不等于普通人能拿到，必须记录样本量、发布时间和职责门槛；
-- **只看课程与机构口径**：卖课者、平台和中介都有立场，就业率、涨薪和转型故事必须追问样本与统计口径。
+- **Winner stories only.** Platforms and media amplify a handful of winners. Look for the distribution, the median, ordinary practitioners, and failures.
+- **Job ads only.** A posting is not proof of demand, and a top-of-range salary is not what a typical candidate receives. Record the sample size, the posting date, and the bar for the role.
+- **Course and intermediary claims only.** Course sellers, platforms, and recruiters have a position. Employment rates, raise claims, and career-change stories need a sample and a definition.
 
 ---
 
-## 一、行业生命周期与宏观供需研判
+## 1. Industry cycle and supply
 
-针对用户当前行业及少量高相关相邻行业，检索当前年份的权威报告、企业经营数据、投融资数据与招聘事实。生命周期只是分析框架；证据不足时应描述观察到的变化，不能强行归类。
+For the user's current field and one to three closely related fields, look up the current year's authoritative reports, company results, funding data, and hiring facts. The lifecycle is a frame. When the evidence is thin, describe the change you actually observed. Do not force a label.
 
-| 生命周期阶段 | 典型客观特征 | 对个人职业策略的含义 |
+| Stage | Typical evidence | What it means for the person |
 | :--- | :--- | :--- |
-| **扩张期** | 资本或营收增长、企业扩招、岗位需求上升 | 评估增长是否可持续，以及用户能否获得职位或能力溢价 |
-| **存量期** | 增长放缓、头部集中、薪酬带宽收敛、效率考核趋严 | 识别利润相关、管理杠杆或稀缺复合能力是否获得更高定价 |
-| **收缩/出清期** | 岗位数量下降、企业缩编、薪资承压 | 比较留守积累与平滑迁移的成本，优先保留可逆性 |
+| **Expansion** | Revenue or capital is growing, firms are hiring, role demand is up | Judge whether the growth lasts, and whether the user can capture a role or a skill premium |
+| **Mature** | Growth slows, leaders concentrate, pay bands tighten, efficiency pressure rises | Look for whether profit ownership, management leverage, or a scarce combination is priced higher |
+| **Contraction** | Openings fall, teams shrink, pay is under pressure | Compare the cost of staying and deepening against a smooth move. Keep the move reversible |
 
 ---
 
-## 二、真实岗位与薪资调研
+## 2. Real jobs and pay
 
-围绕用户的目标城市，至少调研三组岗位：
+Around the user's target labor market, research at least three groups of roles:
 
-- 当前岗位；
-- 唯一最推荐定位；
-- 一个保底或相邻定位。
+- the current role;
+- the single recommended position;
+- a floor or adjacent position.
 
-可用来源包括 Boss 直聘、猎聘、脉脉高聘、智联、前程无忧、LinkedIn、Levels.fyi、Glassdoor 和年度薪酬指南。平台页面无法访问时，必须写明“无法直接核验”，不能声称获得了该平台实时统计。
+Use sources a buyer in that country actually uses. Default international sources:
 
-### 岗位样本最少要记录
-1. 职位名称、城市、公司阶段和发布日期；
-2. 核心职责与硬门槛；
-3. 薪资范围及口径：月薪、薪数、奖金、提成、股权是否分开；
-4. 与用户匹配项和缺口；
-5. 样本数量与偏差：招聘广告报价不等于最终 Offer。
+- LinkedIn, Indeed, Glassdoor, Levels.fyi, Wellfound, Blind, and Welcome to the Jungle for postings, ranges, and practitioner discussion;
+- national statistics where they exist: U.S. Bureau of Labor Statistics OEWS, U.K. ONS Annual Survey of Hours and Earnings, Eurostat, and the equivalent national office for the user's country;
+- recruiter salary guides such as Robert Half, Hays, and Michael Page, labeled as intermediary estimates;
+- public company filings and role descriptions when the user is targeting a named employer.
 
-薪资报告输出优先使用区间和样本中位水平。只有样本足够时才使用 P25/P50/P75；不根据少量 JD 伪造 P90。
+Do not use China-only boards (Boss Zhipin, Liepin, Maimai, Zhaopin, 51job) unless the user is actually in that market and asks for it. If a site cannot be opened, write "could not verify directly." Never claim a live platform statistic you did not see.
 
-### 不能停在岗位和薪资
+Record pay in the user's currency and the local convention: base, target bonus, commission, equity, benefits, and total cash versus total compensation. Do not translate a Chinese "months of salary" package into another country, and do not quote a U.S. total-comp number as if it were a London or Singapore base.
 
-还应尽量补齐：
+### Minimum fields for each sample
 
-- 从业者的真实日常：每天处理什么问题、压力来自哪里、晋升靠什么、出局通常因为什么；
-- 这个职业的收入是怎样分布的，头部故事与普通从业者之间差了什么；
-- 用户从当前路径主动经营 1 年、3 年后的基准结果，避免只拿新方向的想象收益对比旧方向的现状；
-- 转弯成本：重新建立信任、降级、收入空窗、学习曲线、身份落差和家庭配合；
-- 相邻路径的真实案例：优先找与用户背景接近的普通样本，不用跨度过大的名人故事证明可能性。
+1. Title, labor market, company stage, and posting date.
+2. Core duties and hard requirements.
+3. Pay range and what it includes: base, bonus, commission, equity, and benefits, kept separate.
+4. Where the user matches and where the gap is.
+5. Sample size and bias. A posted range is not an offer.
+
+Prefer a range and the sample median. Use P25/P50/P75 only when the sample is large enough. Do not invent a P90 from a handful of job descriptions.
+
+### Do not stop at titles and pay
+
+Also fill in, as far as the sources allow:
+
+- the real day: what problems people handle, where the pressure comes from, what promotion depends on, and why people get pushed out;
+- how income is distributed, and what separates the headline story from an ordinary practitioner;
+- the base case if the user actively works the current path for 1 year and for 3 years, so a new path is not compared only with an imagined upside;
+- the cost of the turn: rebuilding trust, a level drop, an income gap, the learning curve, the identity drop, and the household;
+- ordinary people with a background close to the user's. A famous leap is not evidence that this person can make it.
 
 ---
 
-## 三、AI 对当前岗位的结构性冲击拆解（任务级评估）
+## 3. AI impact, task by task
 
-严禁泛泛而谈「AI 很厉害，要拥抱 AI」。必须把用户的日常工作拆解为 **4–6 个具体任务环节**，逐项进行客观的结构性评估：
+Do not say "AI is powerful, embrace it." Split the user's week into **4–6 concrete tasks** and assess each one.
 
-| 任务环节 | AI 当前替代/压缩程度 | 未来 2–3 年价值走向 | 专家应对结论 |
+| Task | How far AI already substitutes or compresses it | Where the value goes in 2–3 years | What the advisor concludes |
 | :--- | :--- | :--- | :--- |
-| 例：标准化执行、基础信息整理、模板化产出 | 结合目标岗位样本评估 | 观察需求量、定价和职责变化 | 记录 AI 使用前后的时间、质量和责任边界，再判断投入 |
-| 例：复杂边界判断、跨系统/跨部门落地、客户信任与责任兜底 | 结合工具能力和组织流程评估 | 观察岗位是否增加此类职责 | 用真实项目验证 AI 能否增强交付，而非预设放大倍数 |
+| Example: standard execution, basic research, templated output | Judge from target job samples | Watch volume, price, and whether the duty remains | Record time, quality, and who is accountable before and after AI, then decide the investment |
+| Example: judgment at the boundary, cross-team delivery, client trust and ownership | Judge from the tools and the real process | Watch whether roles add this duty | Test on a real project whether AI improves delivery. Do not assume a multiplier |
 
-### 必须回答的 3 个 AI 冲击问题
-1. **替代风险**：用户赖以获得报酬的任务中，哪些已被自动化或降低门槛？证据是什么？
-2. **杠杆红利**：AI 嵌入工作流后，能否在质量不降、责任边界清楚的前提下提升可测量的产出？
-3. **商业范式迁移**：在用户所属领域，哪些旧的赚钱/副业模式已经被 AI 击穿？哪些依赖「企业效率提升、人力成本替代、合规复杂交付」的新需求正在扩大？
+### Three questions that must be answered
 
-### AI 落地成熟度：区分“会用”与“能负责”
+1. **Substitution.** Which paid tasks are already automated or easier for a newcomer? What is the evidence?
+2. **Leverage.** After AI is in the workflow, can measurable output rise without a drop in quality and with a clear line of responsibility?
+3. **Business shift.** In this field, which old ways of making money are already broken by AI? Which new demand is growing because firms want efficiency, labor substitution, or complicated compliant delivery?
 
-评估用户和目标岗位处在哪一级：
+### Adoption maturity: using a tool is not owning the result
 
-1. **个人提效**：提示词、对话工具和单点生成；
-2. **可重复工作流**：固定输入输出、工具使用、人工复核和失败处理；
-3. **业务流程集成**：进入真实工作或服务流程，处理权限、数据、质量和异常；
-4. **可治理运行**：具备质量检查、反馈纠偏、过程记录、审计、退出机制和成本控制；
-5. **规模化采用**：跨团队推广、流程改造、培训激励、采用率和业务结果持续成立。
+Place the user and the target role on this ladder:
 
-职业溢价通常来自对更高层级结果负责，但是否存在溢价必须由目标岗位和薪资样本验证。报告需指出用户当前级别、目标级别和缺失证据。
+1. **Personal speed.** Prompts, chat tools, one-off generation.
+2. **Repeatable workflow.** Fixed inputs and outputs, tool use, human review, and a failure path.
+3. **Process integration.** Inside a real workflow, with permissions, data, quality, and exceptions.
+4. **Governed operation.** Quality checks, feedback, an audit trail, an exit, and cost control.
+5. **Scaled adoption.** Cross-team rollout, process change, training, incentives, adoption, and a business result that keeps holding.
 
-### 先翻译到用户所在行业
+A premium usually comes from owning a higher-level result. Whether that premium exists has to be checked against target roles and pay samples. Name the user's current level, the target level, and the missing evidence.
 
-AI 冲击必须使用该行业认可的结果指标和责任语言：
+### Translate it into the user's industry
 
-- 医疗健康：安全、疗效、误诊漏诊、隐私、临床责任；
-- 制造与供应链：良率、停机、交付、库存、现场安全；
-- 教育：学习效果、公平性、教师复核和未成年人数据；
-- 销售与服务：获客、转化、复购、投诉和客户信任；
-- 设计与内容：原创性、一致性、版权、品牌和商业效果；
-- 财务、法律等专业服务：准确性、合规、审计轨迹和专业责任。
+Use the result metrics and the language of responsibility that industry already accepts:
 
-列表只是示例。分析者必须根据用户行业另做专项调研，不能拿软件研发指标替代。
+- healthcare: safety, outcomes, missed diagnosis, privacy, clinical responsibility;
+- manufacturing and supply chain: yield, downtime, delivery, inventory, site safety;
+- education: learning outcomes, fairness, teacher review, and data about minors;
+- sales and service: acquisition, conversion, repeat purchase, complaints, and trust;
+- design and content: originality, consistency, copyright, brand, and commercial effect;
+- finance, law, and other professional services: accuracy, compliance, an audit trail, and professional liability.
 
-### 按需启用：技术岗位示例
+The list is only a prompt. Research the user's industry. Do not grade a nurse, a teacher, or a salesperson with software-engineering metrics.
 
-对软件工程、AI 产品、研发效能和技术管理岗位，检索 JD 与案例时应记录：
+### Use only when relevant: technical roles
 
-- 是否要求 Agent/复杂工作流、模型编排、工具调用或人机协作；
-- 是否涉及身份、权限、敏感数据、审计与高风险操作确认；
-- 是否要求评测集、线上实验、回归、追踪与故障定位；
-- 如何权衡质量、成本、时延、稳定性和端侧资源；
-- AI 生成代码、内容或决策如何审查、归属、发布和回滚；
-- 是否涉及客户端、Web、跨端、端云协同和用户体验；
-- 职责停留在 Demo，还是包含生产上线、采用率和组织推广。
+For software engineering, AI product, developer productivity, and technical management, record whether job descriptions and cases require:
 
----
-
-## 四、调研纪律与透明度要求
-
-- 每个关键市场结论至少有两个独立来源，或明确列出一组真实岗位样本。
-- 所有引用须标明年份、来源、查询日期和统计口径。
-- 若某一细分冷门岗位公开数据不足，明确标注「公开样本有限，以下基于相邻岗位推算」，**绝不伪造精确百分比或编造不存在的报告**。
-- 当市场现实与用户主观预期冲突时（例如用户想转的赛道已严重内卷，或用户低估了自身跨界筹码），**以客观市场数据为准，直接坦诚呈现，不迎合用户原有偏见**。
-- 将事实与推断分开：招聘数量、薪资范围属于事实；“行业扩张”“用户被低估”属于分析结论，必须解释证据链。
+- agents or complex workflows, model orchestration, tool use, or human-agent collaboration;
+- identity, permissions, sensitive data, audit, and confirmation of high-risk actions;
+- eval sets, production experiments, regression, tracing, and incident diagnosis;
+- an explicit tradeoff among quality, cost, latency, reliability, and on-device resources;
+- review, attribution, release, and rollback of AI-generated code, content, or decisions;
+- client, web, cross-platform, client-cloud, and experience work;
+- a demo only, or production launch, adoption, and organizational rollout.
 
 ---
 
-## 五、自媒体、自由职业、创业与转型学习的专项调研
+## 4. Research discipline
 
-当用户把这些方向当作职业出口时，不能只搜成功案例。
+- Every important market claim needs two independent sources, or an explicit set of real job samples.
+- Every citation needs the year, the source, the date it was checked, and the definition.
+- If a narrow role has little public data, write "public sample is thin; the following is inferred from adjacent roles." Never invent a precise percentage or a report that does not exist.
+- When the market conflicts with what the user hoped, say so. Do not sand the edges to match the hope.
+- Separate fact from inference. A posting count and a pay range are facts. "The industry is expanding" and "the user is underpriced" are conclusions, and they need the chain.
 
-### 自媒体与内容创业
+---
 
-至少核查：
+## 5. Creators, freelance, startups, and "I'll study my way across"
 
-- 目标人群、内容主题和可区分性；
-- 平台分发与商业化规则，是否过度依赖单一平台；
-- 同类账号的供给密度、更新频率和商业模式；
-- 变现来自广告、商单、带货、咨询、课程、社群还是产品，各自需要什么规模与信任；
-- 用户自己的有效数据：稳定更新周期、目标受众占比、咨询、留资、付费、复购与时间成本。
+When the user treats these as a career exit, do not search only for success stories.
 
-播放量、粉丝数和头部账号收入不能直接外推到用户。平台公开数据常存在幸存者偏差、收入集中和口径不一；无法获得创作者收入分布时，要明确写“缺少可靠基准”，改用用户自身的小规模实验。
+### Creators and content businesses
 
-### 自由职业与创业
+Check at least:
 
-至少核查：
+- the audience, the subject, and what would make this person distinguishable;
+- how distribution and monetization work on that platform, and whether the plan depends on a single platform;
+- how crowded the niche is, how often comparable accounts publish, and how they make money;
+- whether money comes from ads, sponsorships, affiliate sales, consulting, courses, a community, or a product, and what scale and trust each one needs;
+- the user's own data: publishing cadence, share of the intended audience, inquiries, leads, payment, repeat payment, and hours.
 
-- 谁付钱、为什么现在付钱、替代方案是什么；
-- 获客渠道、成交周期、客单价、毛利、交付工时和回款风险；
-- 首单是否来自亲友或原公司关系，离开原网络后能否重复；
-- 收入波动、合规责任、税费、平台抽成和隐性管理工作；
-- 现金跑道、投入上限与退出路径。
+Views, followers, and a top creator's income do not transfer. Public creator data is full of survivor bias, income concentration, and mixed definitions. If there is no reliable income distribution, write "no reliable base rate" and use the user's own small test instead.
 
-### 学技能、考证与转岗
+### Freelance and startups
 
-先抽样目标岗位 JD，再判断技能是否属于硬门槛、加分项或无关项。调研培训项目时记录就业数据的样本、时间、地区和统计口径；“推荐就业”“平均涨薪”等宣传不能直接作为证据。最可靠的验证顺序通常是：
+Check at least:
 
-`小型作品或真实任务 → 从业者反馈 → 定向投递/接单 → 面试或付费反馈 → 再决定系统学习`
+- who pays, why they pay now, and what they would do instead;
+- channel, sales cycle, price, gross margin, delivery hours, and collection risk;
+- whether the first sale came from friends or the current employer, and whether it repeats outside that network;
+- income swings, compliance, tax, platform fees, and the hidden management work;
+- cash runway, a spending cap, and an exit.
 
-### 方法校准依据
+### Skills, certificates, and a role change
 
-以下资料用于提醒分析者控制偏差，不能直接替代用户所在国家、城市和赛道的实时调研：
+Sample target job descriptions first, then decide whether the skill is a hard requirement, a plus, or irrelevant. For a training program, record the employment claim's sample, date, geography, and definition. "Job placement" and "average raise" marketing is not evidence. The usual order is:
 
-- CreatorIQ《State of Creator Compensation 2025》覆盖其平台 1.44 万名获得直接付款的创作者，报告显示付款高度集中，且平均数明显高于中位数。它支持“不要用头部案例或平均收入推算普通创作者”的纪律；样本来自特定平台和品牌合作场景，不能外推所有内容变现。
-- OECD《Career Guidance for Adults in a Changing World of Work》指出，职业指导对短期学习、求职技能和培训参与的证据较强，对长期晋升和工作满意度的证据较弱；部分结果来自自报调查，存在自选择和归因限制。它支持“规划必须连接后续行动与市场反馈”。
-- OECD 2024 成人技能研究指出，技能与就业、工资有关，但技能错配普遍存在。它支持“学得更多不等于回报更高，关键是目标岗位匹配与技能信号”。
-- 美国劳工统计局 2024 年企业机构生存数据表明，新机构生存率随时间下降，且行业差异明显。该数据统计美国雇主机构，不代表中国个体创业、自媒体账号或单人公司的成功率；它只用于提醒报告核算持续经营和行业差异，禁止套用成个人失败概率。
+`a small artifact or a real task → practitioner feedback → targeted applications or a paid trial → interview or payment feedback → only then a longer course`
 
-具体报告仍须优先使用用户所在地、目标平台和目标行业的当期样本，并记录查询日期与口径。
+### Sources that calibrate the method
+
+These sources remind the analyst to control bias. They do not replace current research in the user's country, city, and niche:
+
+- CreatorIQ, *State of Creator Compensation 2025*, covers 14,400 creators who received direct payment on its platform. Payment is highly concentrated, and the mean sits well above the median. That supports the rule "do not project a typical creator from a headline or an average." The sample is one platform and brand deals. It does not describe every way of making money from content.
+- OECD, *Career Guidance for Adults in a Changing World of Work*, finds stronger evidence for short-term learning, job-search skill, and training participation than for long-term promotion and job satisfaction. Some results are self-reported, with self-selection and attribution limits. It supports "a plan has to connect to a next action and to market feedback."
+- OECD's 2024 adult-skills work finds that skills relate to employment and wages, and that mismatch is common. It supports "more study is not more pay. The match to the target role, and a signal the market can see, is what matters."
+- U.S. Bureau of Labor Statistics establishment-survival tables for 2024 show survival falling over time, with large industry differences. The tables count U.S. employer establishments. They are not a personal failure rate for creators, freelancers, or one-person businesses in any country. Use them only to force the report to count survival and industry differences. Do not convert them into "your chance of failing."
+
+Prefer a current sample from the user's location, platform, and industry, and record the date and the definition.

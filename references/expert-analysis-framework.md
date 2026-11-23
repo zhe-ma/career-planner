@@ -1,335 +1,339 @@
-# 职业规划专家分析框架
+# Career strategy analysis framework
 
-## 0. 证据层级与结论纪律
+## 0. Evidence levels and conclusion discipline
 
-每条重要结论标注依据：
+Label the basis of every important conclusion:
 
-- **事实**：用户明确陈述或材料记载；
-- **市场数据**：招聘岗位、薪资报告、行业公开数据；
-- **推断**：由事实和数据推导，需写出逻辑；
-- **假设**：尚未验证，必须放进 30/60/90 天实验。
+- **Fact.** The user stated it, or a document records it.
+- **Market data.** Job postings, pay reports, public industry data.
+- **Inference.** Derived from facts and data, with the logic written out.
+- **Hypothesis.** Not yet tested. It belongs in the 30/60/90 day experiment.
 
-结论给出高/中/低置信度。不要用无样本依据的精确成功率。职业顾问的价值是做有证据的判断，不是制造权威感。
+Give high, medium, or low confidence. Do not publish a precise success rate with no sample behind it. The advisor's value is a judgment with evidence, not a performance of authority.
 
-## 0.1 深度门槛：没有论证，就不许下结论
+## 0.1 Depth bar: no argument, no conclusion
 
-当前版本最容易犯的毛病，是把复杂人生压缩成几张卡片和几句漂亮结论。职业规划不是海报。报告必须像一位见过行业起落、见过人反复折腾的资深顾问，坐在对面把话讲透：温和，但不哄人；有判断，但每一步都说明为什么。
+The easiest failure is to compress a life into a few cards and a few handsome sentences. A career plan is not a poster. The report should read like a senior advisor who has seen industries rise and fall, and people thrash, sitting across the table and talking it through: warm, and not soothing; opinionated, and showing why at every step.
 
-每个核心判断都必须走完这条推理链：
+Every core judgment walks this chain:
 
-`发生了什么事实 → 有哪几种解释 → 外部调研支持哪一种 → 放弃其他路径会失去什么 → 因此现在怎么做 → 什么新证据会推翻这项判断`
+`what happened → which explanations exist → which one the outside research supports → what is lost by dropping the other paths → what to do now → what new evidence would overturn this`
 
-具体要求：
+Specific requirements:
 
-1. **先拆问题，不先给答案。** “想换行”“想做自媒体”“想学新技能”只是用户给出的解法，不是问题本身。先分清问题出在公司、团队、直属管理、岗位内容、职业阶段、行业周期、收入结构、家庭阶段，还是信息环境制造的比较焦虑。
-2. **现有工作默认进入辩护席。** 只要当前工作收入、稳定性和积累尚可，离开就必须通过举证：新路径要证明它比“把现有积累做深、换个定价环境、争取更高责任”更值得。不能因为用户说腻了，就默认远方更好。
-3. **职业是复利资产，不是一时情绪。** 每项选择都要看 3–5 年后留下什么：更深的专业信用、更稀缺的成果、更强的客户与人脉，还是重新从初级信任开始。要把路径依赖和机会成本说清楚。
-4. **必须做反事实推演。** 至少比较三种未来：原地被动待着、主动经营当前路径、转向新路径。很多人真正需要逃离的只是“被动状态”，不是这份职业。
-5. **把浮躁的信息环境当成变量。** 社交平台会放大极少数成功者，培训机构会出售希望，算法会把同龄人的高光时刻推到用户面前。报告要主动指出样本偏差、幸存者偏差和收入长尾，不让用户拿别人的广告当自己的人生基准率。
-6. **语气像长者，不像教练。** 可以说“这一步我不建议你走”“你现在缺的不是新方向，而是把旧本事卖出更好的价钱”。语重心长来自阅历和逻辑，不来自鸡汤、金句或居高临下。
-7. **内容优先于形式。** 每章以连续论述为主，图表只帮助理解。禁止用十几个小卡片代替分析；一个结论如果说不清证据、代价和替代解释，就删掉或降级为假设。
-8. **态度只放在刀刃上。** 每章留一句明确的顾问判断，语气可以强，但后面紧跟代价和验证办法。情绪强度服务于提醒用户停下、看清或行动，不服务于制造金句。
-9. **写完必须做一次删减。** 删除重复结论、泛行业背景、同义解释和不影响决策的信息；检查每段至少承担事实、推理、反方、取舍、行动中的一种功能。充实不等于长，完整也不等于把所有知道的都写上。
-10. **长段落要给眼睛留抓手。** 每段用粗体标出一到两处关键判断、数字或条件，让扫读的人先抓住骨架；每章只允许一句核心句高亮，多了就互相稀释。标记的是结论，不是情绪。
-11. **硬话之外，要有四句人话。** 开场说公道话（点名用户做对的具体事）、动机后说宽心话（想走不丢人）、行动前说托底话（用旧战绩证明新动作做得动）、结尾写短信（承认不确定、还回选择权、约复盘）。每句鼓励必须能指回一个事实；指不回去的夸奖，删掉。
+1. **Take the problem apart before giving an answer.** "I want to switch industries," "I want to be a creator," and "I want to learn a new skill" are solutions the user brought. They are not the problem. Separate whether the trouble is the company, the team, the manager, the work itself, the career stage, the industry cycle, the pay structure, the family stage, or comparison anxiety manufactured by the information environment.
+2. **The current job starts in the defense.** If pay, stability, and accumulation are still acceptable, leaving has to pass a burden of proof. The new path has to show it is worth more than deepening the current capital, changing the pricing environment, or taking on more responsibility. Boredom is not evidence that somewhere else is better.
+3. **A career is a compounding asset, not a mood.** Every choice is judged by what it leaves in 3–5 years: deeper professional credit, scarcer results, stronger clients and relationships, or a restart from junior trust. Say the path dependence and the opportunity cost.
+4. **Run the counterfactuals.** Compare at least three futures: staying passive, actively working the current path, and turning onto a new path. What many people need to escape is the passive state, not the occupation.
+5. **Treat the noisy information environment as a variable.** Social platforms amplify a few successes. Training businesses sell hope. Algorithms push peers' highlight reels. Name sample bias, survivor bias, and the long tail of income. Do not let someone else's advertisement become this person's base rate.
+6. **Sound like an elder, not a coach.** You may say "I would not take that step" or "what you lack is not a new direction. It is a better price on the skill you already have." The weight comes from experience and logic, not from slogans or from talking down.
+7. **Substance over form.** Each chapter is continuous argument. Diagrams only help understanding. Do not replace analysis with a dozen small cards. If a conclusion cannot state its evidence, its cost, and the alternative explanation, delete it or downgrade it to a hypothesis.
+8. **Attitude only at the edge.** One clear advisor judgment per chapter. The tone can be strong, and it is immediately followed by the cost and the way to test it. Intensity is for stopping, seeing, or acting. It is not for manufacturing a quotable line.
+9. **Cut once after drafting.** Delete repeated conclusions, generic industry background, synonymous explanations, and information that does not change the decision. Each paragraph should carry at least one of: a fact, a reason, the other side, a tradeoff, or an action. Full is not the same as long, and complete is not the same as writing everything you know.
+10. **Give the eye a handhold in a long paragraph.** Bold one or two key judgments, numbers, or conditions so a scan sees the skeleton. One highlighted core sentence per chapter. More than that, they dilute each other. Mark conclusions, not emotions.
+11. **Beside the hard lines, four human sentences.** A fair word at the opening (name a specific thing the user did right). A relieving word after the motive (wanting to leave is not shameful). A grounding word before the action (an old result shows the new action is doable). A short letter at the end (admit uncertainty, give the choice back, set a review). Every encouraging sentence has to point at a fact. Praise that cannot point back is deleted.
 
-### 材料取证规则
+### Rules for reading materials
 
-用户提供简历、述职、项目、答辩、作品或经营材料后：
+After the user provides a resume, reviews, projects, a defense, a portfolio, or operating records:
 
-1. 记录材料名称、日期、用途和作者；
-2. 提取职责、本人动作、结果、协作者和可验证线索；
-3. 区分“材料记载的事实”“材料中的自我评价”“分析者推断”；
-4. 同一成果在不同材料中数字或归因不一致时，保留冲突并集中追问；
-5. 绩效用语、奖项和头衔需要结合评审范围与标准，不能直接等同于市场能力；
-6. 只读取用户有权提供的内容；报告中继续脱敏，不复述无关商业秘密。
+1. Record the document name, date, purpose, and author.
+2. Extract duties, the person's own actions, results, collaborators, and what could be verified.
+3. Separate "a fact the document records," "self-evaluation inside the document," and "the analyst's inference."
+4. When the same result has different numbers or different credit across documents, keep the conflict and ask about it in one batch.
+5. Performance language, awards, and titles need the scope and the standard of the review. They are not the same as market skill.
+6. Read only what the user has the right to provide. Keep redacting in the report. Do not repeat unrelated trade secrets.
 
 ---
 
-# 第一篇章：职业规划
+# Part one: the career plan
 
-报告建议按长文逻辑展开，而不是按组件拼装。篇幅分配原则：处境与资本盘点、动机拆解、外部调研、选择算账和唯一定位占主要篇幅；结论摘要、时间表和财务底盘服务于前文，不得反客为主。
+Unfold the report as a long argument, not as an assembly of components. Situation and capital, motive, external research, the ledger of choices, and the single position take most of the length. The summary, the timeline, and the financial floor serve what came before. They do not take over.
 
-## 1. 执行摘要：先回答最重要的事
+## 1. Executive summary: answer the important thing first
 
-用户打开报告后 30 秒内应看到：
+Within 30 seconds the reader should see:
 
-1. **唯一最推荐后续定位**：完整句式为“在【行业/场景】中，担任【角色】，解决【关键问题】，用【证据】证明价值”。
-2. **当前去留结论**：留下、内部转岗、在职跳槽、暂缓跳槽、谨慎转行或不建议转行；不能含糊。
-3. **为什么**：3 条最硬理由。
-4. **结论置信度与待验证假设**。
-5. **未来 14 天第一步**。
+1. **The single recommended next position**, in the full form: "In [industry or setting], as [role], solve [the key problem], and prove the value with [evidence]."
+2. **The stay-or-go call:** stay, internal move, move while employed, pause the job search, switch with caution, or do not switch. No hedge.
+3. **Why:** the three hardest reasons.
+4. **Confidence, and the hypotheses still to be tested.**
+5. **The first step in the next 14 days.**
 
-Hero 只展示这些，不展示当前收入、资产和负债。
+The hero shows these and does not show current income, assets, or debts.
 
-## 2. 现有处境与底层矛盾
+## 2. The current situation and the contradiction underneath
 
-这一节回答：“我为什么现在不舒服，以及我究竟卡在哪里？”不能只列资产和短板，要讲清一个人走到今天的来路：哪些选择形成了今天的本钱，哪些本钱离开原平台还成立，当前这份工作在真实世界里到底值多少钱、又在消耗什么。
+This section answers: why is this uncomfortable now, and where exactly is the person stuck? Do not only list assets and gaps. Explain the road that produced today: which choices created the current capital, which of that capital survives outside the platform, what the job is worth in the real world, and what it is consuming.
 
-### 2.1 规划诱因与底层需求
+### 2.1 The trigger and the underlying need
 
-根据事实识别：安全感下降、成长停滞、收入缺口、价值感缺失、生活自主权不足或复合因素。它是职业决策分析，不是临床诊断。
+From the facts, identify falling security, stalled growth, an income gap, a missing sense of value, too little control over life, or a combination. This is career-decision analysis, not a clinical diagnosis.
 
-分析时要追问到更底层：
+Push one layer down:
 
-- 触发事件是长期趋势，还是一次晋升、一次比较、一段短视频带来的情绪波动；
-- 用户想离开的究竟是工作本身，还是管理方式、重复感、无力感和“人生被定型”的恐惧；
-- 用户想要的究竟是更多钱、更高地位、自由、创造感，还是被看见；
-- 哪些需求可以通过换团队、换公司、争取项目、调整生活解决，哪些确实需要换赛道。
+- is the trigger a long trend, or a mood swing after one promotion, one comparison, or one short video;
+- is the user leaving the work itself, or the management, the repetition, the powerlessness, and the fear that life has been fixed in place;
+- do they want more money, higher status, freedom, a feeling of making something, or to be seen;
+- which needs can be met by a new team, a new company, a project, or a change in life, and which actually require a new track.
 
-要把“信息环境”单列出来审视：最近密集接触了哪些成功叙事、课程营销或同龄人故事；它们展示的是中位数结果，还是极少数头部样本。冷静不是压抑欲望，而是先把欲望的来源看清。
+Inspect the information environment on its own: which success narratives, course marketing, or peer stories have they been immersed in, and do those show a median result or a tiny head of the distribution. Calm is not suppressed desire. It is seeing where the desire came from.
 
-还要盘点“娱乐与信息食谱”，这是事实档案里最容易被跳过、却最影响判断的一项：每天屏幕时间多少、短视频/公众号/小红书/长视频/游戏各占多少、集中在什么时段、刷完更放松还是更焦虑。它在报告里有两处用途：一是信息环境——一个人每天刷三小时副业变现内容，他对“要不要走”的判断就不可能不受污染，要把这笔账明算；二是时间预算——90 天行动需要的时间，只能从现有时间结构里指名回收（例如睡前短视频 1 小时改为 3 天做案例、4 天保留休息），禁止不指出来源地写“每天挤出两小时”。娱乐本身不接受道德评判；要评判的只是它是否在用户不知情时替他做决定。
+Also inventory the entertainment and information diet. It is the item in the fact file most often skipped, and it moves the judgment: daily screen time; the share of short video, YouTube, Instagram, newsletters, LinkedIn, Reddit, long-form video, and games; when it clusters; and whether they feel rested or more anxious afterward. It is used twice. As information environment: someone who watches three hours a day of side-income content cannot judge "should I leave" without that contamination being counted. As time budget: hours for the 90-day plan can only be recovered by name from the current structure (for example, one hour of late-night short video becomes three evenings on a case and four kept for rest). Do not write "find two hours a day" without naming the source. Entertainment itself is not morally judged. What is judged is whether it is deciding for the user without the user noticing.
 
-### 2.2 当前处境：先给现有工作做一次公正估值
+### 2.2 Price the current job fairly
 
-详细讲清：
+Write out:
 
-- **走到今天靠什么**：教育、行业、组织、项目和关键人物如何累积出今天的能力与信用；
-- **可带走的职业资产**：能力、战绩、行业认知、客户、作品、推荐人和解决问题的范围；
-- **平台赠予的部分**：品牌、流量、客户、预算、数据和组织协作离开后还剩多少；
-- **当前工作的真实回报**：收入只是其中一项，还包括学习速度、履历信用、行业入口、人脉质量、稳定性和未来选择权；
-- **当前工作的真实损耗**：能力折旧、健康与时间、机会成本、定价被锁死、责任增加但权力与回报不匹配；
-- **瓶颈归因**：把问题分别归到个人能力、岗位设计、公司阶段、行业周期和市场定价，不许笼统归结为“前景一般”。
+- **what got them here:** how education, industry, organization, projects, and key people accumulated the current skill and credit;
+- **career assets they can take:** skill, results, industry judgment, clients, work, references, and the range of problems they can solve;
+- **what the platform lent:** brand, traffic, clients, budget, data, and internal coordination, and how much of that remains after leaving;
+- **the real return of the current job:** pay is one item. Also learning speed, resume credit, an industry door, the quality of the network, stability, and future optionality;
+- **the real cost:** skill depreciation, health and time, opportunity cost, a locked price, and responsibility that grew without matching authority or pay;
+- **where the bottleneck sits:** personal skill, role design, company stage, industry cycle, or market pricing. Do not collapse it into "the outlook is average."
 
-只要现有工作还不错，就必须认真讨论“把积累做得更好”这条路：争取更核心的问题、扩大负责范围、形成可展示成果、建立行业可见度、寻找内部导师与关键同盟、让下一次定价发生在自己准备充分之后。很多人的最优解不是换人生，而是把已经走了一半的路走深。
+If the current job is still decent, seriously discuss "make the accumulation better": a more central problem, a wider scope, a result that can be shown, visibility in the industry, an internal mentor and a key ally, and the next price happening after the person is ready. For many people the best answer is not a new life. It is walking further down a road that is already half built.
 
-### 2.3 错误想法纠偏
+### 2.3 Correcting an idea that does not hold
 
-只纠正有事实证据的想法，格式为：
+Correct only ideas that the facts contradict, in this form:
 
-`用户当前想法 → 为什么不成立/不完整 → 更合理的替代判断 → 如何验证`
+`the current idea → why it fails or is incomplete → the better judgment → how to test it`
 
-纠偏要讲透机制。例如“换个行业就会涨薪”要拆出新行业的支付能力、用户的可迁移比例、重新建立信任的时间和降级成本。避免把不同意见都叫“错误”；如果只是价值偏好差异，应写“取舍”，不写“误区”。
+Explain the mechanism. "A new industry will raise my pay" has to be split into that industry's ability to pay, how much of the user transfers, the time to rebuild trust, and the cost of a level drop. Do not call every disagreement an error. If it is a difference of values, write "tradeoff," not "fallacy."
 
-## 3. “工作一般，所以做点别的”探索诊断
+## 3. "The job is average, so I'll do something else"
 
-这类用户常同时表达：工作缺乏成就感、收入增长慢、看不到前景，并开始做自媒体、学新技能、考证、接副业或考虑创业。不能立即鼓励，也不能简单劝退。先拆开三个问题：
+These users often say the work has no sense of achievement, pay is growing slowly, and they cannot see a future, and they have started a creator account, a new skill, a certificate, a side job, or a startup. Do not encourage immediately, and do not simply talk them out of it. Separate three questions:
 
-1. **旧工作的问题究竟在哪里**：公司定价低、岗位空间小、行业收缩、管理关系、能力停滞，还是比较带来的相对失落？
-2. **新方向解决什么**：收入、成长、掌控感、身份认同、表达欲或生活方式？一个选择可能满足情绪需求，却没有职业或商业价值。
-3. **新方向拿到了什么外部证据**：用户喜欢做，与市场需要并非同一件事。
+1. **Where is the old job's problem:** low company pricing, a small role, a contracting industry, the management relationship, stalled skill, or the relative disappointment of comparison?
+2. **What would the new direction solve:** income, growth, control, identity, the wish to be heard, or a way of living? A choice can meet an emotional need and still have no career or commercial value.
+3. **What outside evidence does the new direction have:** liking the work and the market needing it are not the same fact.
 
-### 3.1 五类资本总账
+### 3.1 Five kinds of capital
 
-比较方案时同时核算：
+Compare options on all five:
 
-- **职业资本**：技能、成果、行业认知和职位信用会增加还是折损；
-- **市场资本**：客户、受众、渠道、作品和口碑是否可积累、可迁移；
-- **财务资本**：现金跑道、机会成本、试错上限和回本周期；
-- **时间与精力**：工作之外是否能稳定投入，是否损伤健康、家庭和主业表现；
-- **选择权**：失败后能否回到原路径，成功后能否扩大。
+- **Career capital.** Do skill, results, industry judgment, and title credit grow or get written down?
+- **Market capital.** Can clients, audience, channels, work, and reputation be accumulated and transferred?
+- **Financial capital.** Cash runway, opportunity cost, a cap on the experiment, and time to payback.
+- **Time and energy.** Can the hours outside work be sustained, and do they damage health, family, or the main job?
+- **Optionality.** If it fails, can they return? If it works, can it be scaled?
 
-不要只比较“现在工资”和“想象中的创业收入”，也要比较两年后各自留下的资产。
+Do not compare only "today's salary" with "imagined startup income." Compare the assets each path leaves in two years.
 
-### 3.2 探索证据阶梯
+### 3.2 The evidence ladder
 
-按用户已经拿到的最高一级证据判断：
+Judge by the highest step the user has actually reached:
 
-1. **兴趣**：愿意尝试；
-2. **稳定产出**：能持续完成内容、作品或服务；
-3. **外部需求**：有目标人群主动咨询、留资或使用；
-4. **首次付费**：陌生人愿意支付，而非亲友支持；
-5. **重复成立**：复购、转介绍或多次独立成交；
-6. **可持续经营**：扣除获客、平台、时间和交付成本后仍成立，且不完全依赖一次流量。
+1. **Interest.** Willing to try.
+2. **Steady output.** Can keep finishing content, work, or a service.
+3. **Outside demand.** The target audience asks, leaves a lead, or uses it.
+4. **First payment.** A stranger pays. Friends and family do not count.
+5. **It repeats.** Repeat purchase, a referral, or more than one independent sale.
+6. **A business that continues.** It still holds after acquisition, platform, time, and delivery costs, and it does not depend on one spike of traffic.
 
-兴趣和播放量只能证明“愿意做”或“被看见”，不能证明能成为职业。付费也不自动等于可全职，仍需验证重复性、单位经济和个人承受力。
+Interest and views prove "willing" or "seen." They do not prove a career. Payment does not automatically mean it can be full time. Repetition, unit economics, and what the person can bear still have to be tested.
 
-### 3.3 四种动作的推荐顺序
+### 3.3 The order of four moves
 
-- **修复当前路径**：若问题主要来自公司、团队或岗位，在原行业换环境通常比跨行损耗小；
-- **相邻迁移**：保留主要职能或行业资产，只改变一项，优先于行业与职能同时清零；
-- **业余验证**：在预算、时间和周期封顶的前提下测试内容、产品、服务或新技能；
-- **全职投入**：仅在需求、付费、重复性、现金跑道和退出方案均有证据时考虑。
+- **Repair the current path.** If the problem is mainly the company, the team, or the role, changing the setting inside the industry usually costs less than crossing industries.
+- **An adjacent move.** Keep the main function or the industry asset and change only one thing. That comes before zeroing both industry and function.
+- **Test it on the side.** Content, a product, a service, or a new skill, with a cap on budget, time, and duration.
+- **Go full time.** Only when demand, payment, repetition, cash runway, and an exit all have evidence.
 
-顺序不是铁律。当前工作已危及健康或存在明确裁员等事实时，需先处理安全问题；新业务已经有持续订单时，也可更快进入正式评估。
+The order is not iron law. If the current job is already harming health, or a layoff is a fact, handle safety first. If the new business already has continuing orders, it can enter a formal assessment sooner.
 
-### 3.4 学习必须连接真实交易
+### 3.4 Study has to connect to a real transaction
 
-任何“学点东西”的建议都要补齐：
+Any "learn something" recommendation fills in:
 
-`目标岗位/客户 → 必需任务 → 当前差距 → 最小学习内容 → 可展示作品 → 投递/成交反馈`
+`target role or customer → required tasks → the current gap → the smallest thing to learn → an artifact that can be shown → application or sale feedback`
 
-课程完成、证书和学习时长属于投入，不属于结果。优先选择能在 2–6 周产生作品、面试反馈、客户反馈或效率数据的学习；没有目标岗位或客户时，不建议先报长期课程。
+Finishing a course, a certificate, and hours studied are inputs, not results. Prefer learning that can produce an artifact, interview feedback, client feedback, or an efficiency number in 2–6 weeks. With no target role or customer, do not recommend a long course first.
 
-### 3.5 把新方向当成一门生意来审
+### 3.5 Try the new direction as a business
 
-自媒体、自由职业和创业不能只看“我喜不喜欢、能不能坚持”。至少讲清：
+A creator business, freelance work, and a startup are not judged only by "do I like it, can I persist." At least state:
 
-- 服务谁，对方最痛的问题是什么，为什么会付钱；
-- 钱从哪里来：工资之外的广告、商单、咨询、课程、产品、佣金还是服务费，各自需要什么规模；
-- 获客靠什么，平台分发消失或规则变化后还剩下什么；
-- 交付要花多少时间，用户是否喜欢并能长期承受这份工作的日常，而不只是喜欢它的结果；
-- 与主业相比，它是在复用已有专业资本，还是要求用户从最拥挤的入口重新排队；
-- 多久没有收入仍能接受，失败后回到主业的成本是什么。
+- who is served, what hurts them, and why they would pay;
+- where the money comes from besides a salary: ads, sponsorships, consulting, courses, a product, commission, or a fee, and what scale each needs;
+- how customers are acquired, and what remains if platform distribution disappears or the rules change;
+- how many hours delivery takes, and whether the user likes and can bear the daily work, not only the picture of the result;
+- compared with the main job, whether it reuses professional capital or asks the user to rejoin the most crowded queue;
+- how long with no income is acceptable, and what it costs to return to the main job if it fails.
 
-对学习新技能也要同样冷静：先问目标岗位或客户是否真的为它付钱，再问课程、证书和练习能否生成市场认的证据。学习很容易制造“我正在改变”的感觉，它本身不是改变。
+Be equally calm about a new skill. First ask whether the target role or customer actually pays for it. Then ask whether the course, the certificate, and the practice produce evidence the market recognizes. Study is very good at producing the feeling "I am changing." The feeling is not the change.
 
-### 3.6 输出必须给明确判断
+### 3.6 The output is a definite judgment
 
-报告需明确写出：
+The report states:
 
-- 当前尝试属于**情绪出口、兴趣项目、职业期权、已验证副业或可评估生意**中的哪一种；
-- 继续、收缩、暂停还是加码；
-- 主业应修复、迁移还是退出；
-- 下一证据门槛、投入上限、复盘日期和停止条件；
-- 如果用户现有工作并不差，要直接写清为什么不建议轻易放弃，以及怎样把现有积累再往上推一层。
+- whether the current attempt is an **emotional exit, an interest project, a career option, a verified side income, or a business that can be assessed**;
+- continue, shrink, pause, or increase;
+- whether the main job should be repaired, migrated, or exited;
+- the next evidence threshold, the spending cap, the review date, and the stop condition;
+- if the current job is not bad, why it should not be dropped lightly, and how to push the existing accumulation up one more layer.
 
-## 4. 外部市场与个人定价
+## 4. The external market and this person's price
 
-这一节回答：“市场需要什么、我值多少钱、AI 改变了什么？”调研不能停在链接和数字，要把数字翻译成对这个人的含义：哪些门是真开着，哪些门只是招聘广告挂在那里；用户现在的价格为什么形成，换一个环境后哪些部分会涨、哪些会瞬间消失。
+This section answers: what does the market need, what is this person worth, and what has AI changed? Research does not stop at links and numbers. Translate the numbers into what they mean for this person: which doors are actually open, which doors are only a job ad left hanging; why the current price formed; and, in another setting, which parts would rise and which would vanish.
 
-详写：
+Write in full:
 
-- 当前行业所处周期，以及它对普通从业者而非头部公司的影响；
-- 当前岗位、最推荐岗位、保底岗位的真实 JD 样本，提炼共同职责和硬门槛；
-- 薪资区间和口径（城市、年限、现金/奖金/股权），说明样本量、时间和局限；
-- 用户当前在市场中的分位与被低估/高估因素，区分“能力值这个钱”和“现有证据能卖出这个钱”；
-- AI 对具体任务的替代、压价、增强与新需求，结合行业责任边界讨论；
-- 从业者访谈或真实工作日常：这份工作每天到底在做什么，用户是否愿意过那种生活；
-- 三年不变的基准情景：如果外部环境不突然变好，用户靠现有路径会走到哪里。
+- the cycle of the current industry, and its effect on an ordinary practitioner rather than on the leading company;
+- real job-description samples for the current role, the recommended role, and the floor role, with the shared duties and the hard bar;
+- the pay range and its definition (labor market, years, cash, bonus, equity), with sample size, date, and limits;
+- where the user sits in that market, and what underprices or overprices them. Separate "the skill is worth this" from "the evidence currently on hand can sell for this";
+- AI substitution, price pressure, leverage, and new demand on specific tasks, discussed inside that industry's line of responsibility;
+- a practitioner's day: what the job actually is, and whether the user is willing to live it;
+- the three-year base case if the outside world does not suddenly improve.
 
-## 5. 去留判断、最推荐定位与差距
+## 5. Stay or go, the single position, and the gap
 
-这是整份报告最详细、最有态度的一章。
+This is the longest and most opinionated chapter.
 
-### 5.1 先算账，再谈去留
+### 5.1 Do the ledger before the stay-or-go call
 
-每个候选选择都要写成完整论证，不能只填一张决策表。至少回答：
+Each candidate is a full argument, not a cell in a decision table. At least answer:
 
-1. 这条路解决的是前面确认的哪个真问题，解决不了什么；
-2. 它保留、放大或销毁了哪些已有资本；
-3. 前 6 个月最难熬的是什么，收入、身份、学习曲线和家庭节奏会怎样变化；
-4. 1 年和 3 年后分别可能留下什么证据，最坏情况是什么；
-5. 它是否可逆，回到原路的成本由谁承担；
-6. 需要什么外部条件成立，用户能控制哪一部分。
+1. Which confirmed real problem this path solves, and what it does not solve.
+2. Which existing capital it keeps, amplifies, or destroys.
+3. What is hardest in the first 6 months, and how income, identity, the learning curve, and the household rhythm change.
+4. What evidence might remain at 1 year and at 3 years, and what the bad case is.
+5. Whether it is reversible, and who pays the cost of going back.
+6. Which outside conditions have to hold, and which part the user controls.
 
-分别评估：
+Assess separately:
 
-- 留在当前岗位，但主动经营：争取问题、责任、成果、关系和定价；
-- 当前公司内部转岗；
-- 同行业换公司；
-- 保留职能、贴边换行业；
-- 换行业且换职能；
-- 副业/创业；
-- 只把新尝试保留为兴趣与生活出口，不赋予它养活自己的任务。
+- stay in the current role, but work it: problems, responsibility, results, relationships, and price;
+- an internal move;
+- a new company in the same industry;
+- keep the function and move to an adjacent industry;
+- change both industry and function;
+- a side business or a startup;
+- keep the new attempt as an interest and a life outlet, and do not assign it the job of paying the bills.
 
-最后必须排序并给出唯一推荐。排序依据是问题匹配、资本复用、市场证据、下行风险和可逆性，而不是哪个听起来更自由、更高级。
+Then rank them and give one recommendation. The rank uses problem fit, reuse of capital, market evidence, downside, and reversibility. It does not use which option sounds freer or more prestigious.
 
-### 5.2 唯一最推荐定位
+### 5.2 The single recommended position
 
-必须突出：
+Make these visible:
 
-- 定位名称；
-- 目标行业/公司阶段；
-- 核心职责；
-- 为什么用户有资格；
-- 市场为何愿意付钱；
-- 不应投递的岗位；
-- 1 年过渡定位和 3 年目标定位。
+- the name of the position;
+- the target industry and company stage;
+- the core duties;
+- why this person is qualified;
+- why the market will pay;
+- roles they should not apply to;
+- the 1-year transition position and the 3-year target position.
 
-定位不能停留在职位名。使用跨行业能力型句式：
+Do not stop at a job title. Use a cross-industry capability sentence:
 
-> 能在【行业/场景】中，为【服务对象】解决【高价值问题】，把【专业能力/新工具】落地到【真实流程】，并对【质量、效率、收入、风险或体验】结果负责的人。
+> Someone who, in [industry or setting], solves [a high-value problem] for [the person served], lands [professional skill or a new tool] in [a real process], and is accountable for [quality, efficiency, revenue, risk, or experience].
 
-定位由用户事实和市场需求生成。下面只展示方法，不是默认推荐：
+The position is generated from the user's facts and from market demand. The following only show the method. They are not a default recommendation:
 
-- 软件研发：能把 AI 能力稳定落地到客户端、跨端产品与研发流程，并对质量与采用结果负责的人；
-- 制造业：能把工艺经验、现场数据和自动化工具结合起来，稳定改善良率与交付的人；
-- 教育：能把学科能力、学习设计和智能工具结合起来，并用学习结果验证效果的人；
-- 销售：能把客户洞察、解决方案和销售流程系统化，持续提高转化与复购的人。
+- software: someone who can land AI capability in a client, a cross-platform product, and the engineering process, and own quality and adoption;
+- manufacturing: someone who can combine process experience, shop-floor data, and automation to steadily improve yield and delivery;
+- education: someone who can combine subject skill, learning design, and intelligent tools, and verify the effect with learning results;
+- sales: someone who can systematize customer insight, the solution, and the sales process, and keep raising conversion and repeat purchase.
 
-任何示例都必须通过用户经历、目标岗位或客户需求验证。不能因为模板中出现 AI 或技术案例就引导用户转行。
+Every example has to be checked against the user's history, the target role, or customer demand. Do not steer the user into a career change because the template contains an AI or technology example.
 
-### 5.3 未来价值栈
+### 5.3 Where value goes
 
-报告必须分别写清：
+The report writes these separately:
 
-1. **正在商品化或被压价的任务**：高重复、规则清楚、输出容易验收的执行工作；
-2. **未来 3–5 年更可能增值的责任**：复杂判断、真实结果负责、关键关系、流程重构和规模化落地；
-3. **用户应占据的价值链位置**：从完成任务升级到定义问题、组织资源、控制质量并对结果负责；
-4. **证明方式**：收入、成本、质量、效率、风险、客户/用户结果、采用率或可核实案例。
+1. **Tasks being commoditized or repriced down.** High repetition, clear rules, output that is easy to check.
+2. **Responsibilities more likely to gain value over 3–5 years.** Complex judgment, ownership of a real result, key relationships, process redesign, and scaled rollout.
+3. **Where the user should sit in the value chain.** From finishing a task to defining the problem, organizing resources, controlling quality, and owning the result.
+4. **The proof.** Revenue, cost, quality, efficiency, risk, a customer or user result, adoption, or a case that can be checked.
 
-跨行业评估七层能力：
+Assess seven layers across industries:
 
-- **问题定义与专业判断**：识别真正问题、处理例外、作出本行业需要负责的判断；
-- **流程与工具编排**：把人、规则、数据、AI/自动化和人工复核组织成稳定流程；
-- **决策权与风险边界**：明确谁能做什么、哪些信息受保护、何时必须人工确认；
-- **质量验证与反馈闭环**：定义好坏标准、持续检查结果、发现偏差并修正；
-- **资源与系统取舍**：平衡质量、成本、速度、稳定性、合规和长期维护；
-- **服务交付与体验**：让产品、方案或服务在真实渠道中可理解、可使用、可恢复；
-- **从试点到规模化采用**：改变流程、培训协作者、建立激励和指标，让新方法持续运转。
+- **Problem definition and professional judgment.** See the real problem, handle exceptions, and make the judgment this industry holds someone responsible for.
+- **Process and tool orchestration.** Organize people, rules, data, AI or automation, and human review into a stable process.
+- **Decision rights and risk boundaries.** Who may do what, which information is protected, and when a human must confirm.
+- **Quality verification and a feedback loop.** Define good and bad, keep checking results, find the deviation, and correct it.
+- **Resource and system tradeoffs.** Balance quality, cost, speed, reliability, compliance, and long-term maintenance.
+- **Service delivery and experience.** Make the product, the plan, or the service understandable, usable, and recoverable in the real channel.
+- **From a pilot to scaled adoption.** Change the process, train collaborators, set incentives and metrics, and keep the new method running.
 
-再按行业翻译这些能力。例如技术行业可表现为工作流、权限、评测、可观测性和多端体验；医疗强调疗效、安全和责任边界；制造强调良率、停机与现场流程；教育强调学习结果；销售强调获客、转化与复购。
+Then translate those layers into the industry. In technology they may show up as workflow, permissions, evaluation, observability, and multi-surface experience. Healthcare emphasizes outcomes, safety, and the line of responsibility. Manufacturing emphasizes yield, downtime, and the shop-floor process. Education emphasizes learning results. Sales emphasizes acquisition, conversion, and repeat purchase.
 
-规划重点是把用户已有资产升级成新的组合优势。通用抽象是：
+The planning focus is to upgrade assets the user already has into a new combination. The general form is:
 
-`领域知识 + 复杂判断 + 工具与流程落地 + 质量/风险责任 + 组织采用`
+`domain knowledge + complex judgment + tools and process in production + ownership of quality and risk + organizational adoption`
 
-### 5.4 差距与积累优先级
+### 5.4 Gaps, in priority order
 
-按重要性排序：
+1. **Must be filled.** Without it, the target role is closed.
+2. **Raises the premium.** Filling it raises pay and the chance of winning.
+3. **Can be hired or routed around.** The user does not have to become a different person.
+4. **Stop investing.** Unrelated to the target position, or steadily depreciating.
 
-1. **必须补齐**：不补就进不了目标岗位；
-2. **增强溢价**：补齐后提升薪资和胜率；
-3. **可以外包/绕开**：无需把自己改造成另一个人；
-4. **停止投入**：与目标定位无关或持续折旧。
+For each, name the evidence it produces: an artifact, a case, a business number, a reference, a credential, or a real customer.
 
-每项写明产出证据，例如作品、案例、业务数字、推荐人、证书或真实客户。
+### 5.5 Probability and risk
 
-### 5.5 概率与风险表达
+- With a historical base rate or a sample, give a range and name the source.
+- With no sample, use high, medium, or low probability and the factors that move it.
+- Do not assume a cross-industry move must fail, and do not encourage a reset to zero. The judgment is the share of assets that transfer, demand in the target, the cost of the move, and whether it is reversible.
 
-- 有历史基准或样本时可给区间并注明来源；
-- 无样本时使用高/中/低概率和关键影响因素；
-- 不默认“跨行一定失败”，也不鼓励清零重启。核心判断是可迁移资产比例、目标需求、迁移成本和可逆性。
+## 6. The portfolio and the 90-day test
 
-## 6. 方案组合与 90 天验证
+- **Main plan.** Gets most of the disposable energy. The share depends on the job, the household, and cash runway.
+- **Backup.** Used when the main plan is falsified or its conditions fail.
+- **Optional trial.** Capped, and not allowed to damage the main line.
 
-- **主方案**：获得多数可支配精力，具体比例由工作、家庭与现金跑道决定；
-- **备选方案**：主方案被证伪或条件不满足时启用；
-- **可选试验**：投入封顶、不能伤害主线。
+Actions split into:
 
-行动分为：
+- 14 days: positioning materials, case evidence, target samples, and the key contacts;
+- 30 days: the first market feedback;
+- 60 days: hard signals from interviews, projects, or customers;
+- 90 days: against a threshold set in advance, increase, keep accumulating, or stop.
 
-- 14 天：定位材料、案例证据、目标样本和关键联系人；
-- 30 天：首批市场反馈；
-- 60 天：面试/项目/客户的硬信号；
-- 90 天：按预设阈值决定加码、继续积累或停止。
+Hard signals include an offer, a pay quote, a final round, a payment, a referral, and real feedback from the role. Likes, compliments, and "we should work together sometime" do not count.
 
-硬信号包括 Offer、薪资报价、终面、付费、转介绍和真实岗位反馈；点赞、夸奖和“以后合作”不算。
+## 7. Financial optionality (a supporting chapter)
 
-## 7. 财务选择权（职业规划的辅助章节）
+It answers only three things:
 
-只解决三件事：
+1. Whether the cash runway supports a resignation, a pay cut during a transition, or a period of study.
+2. How money needed in the next 1–3 years is separated from long-term money.
+3. Whether basic protection has a hole that would knock out the right to choose.
 
-1. 现金跑道是否支持离职、降薪过渡或学习期；
-2. 未来 1–3 年要用的钱与长期资金如何分开；
-3. 基础保障是否有会击穿职业选择权的漏洞。
-
-若用户没有明确要求理财，不给具体产品比例。若需要给比例，必须先确认资金期限、流动性需求和实际回撤行为。禁止把假设收益率写成承诺。
+If the user did not ask for money management, do not give a product allocation. If an allocation is needed, first confirm the time horizon, the liquidity need, and how they actually behaved in a drawdown. Do not write an assumed return as a promise.
 
 ---
 
-# 第二篇章：个人信息档案
+# Part two: the personal fact file
 
-个人信息放在职业规划之后，作为可核对附录。只写事实，不写判断。
+Personal information comes after the career plan, as an appendix that can be checked. Facts only. No judgments.
 
-## 8. 基本与家庭
-- 城市、年龄阶段、婚姻、子女、家庭照护、地域约束。
+## 8. Basics and household
 
-## 9. 教育与工作履历
-- 教育、证书、任职时间线、岗位、职级、职责。
+City or labor market, age band, marriage, children, family care, location constraints.
 
-## 10. 项目成果与能力证据
-- 项目、本人贡献、结果数字、协作者、可公开程度。
+## 9. Education and work history
 
-## 11. 财务与保障
-- 收入结构、资产、负债、支出、保险。只记录与判断有关的内容；生成公开或分享版时应先脱敏。
+Education, credentials, the timeline of roles, titles, levels, and duties.
 
-## 12. 时间、日常与客观健康记录
-- 作息、通勤、屏幕时间、运动、长期健康管理事实。
+## 10. Projects and evidence of skill
 
-## 13. 目标、约束、信息缺口与冲突
-- 明确目标、偏好、不可接受条件、材料冲突、尚未提供项。
+The project, personal contribution, result numbers, collaborators, and what can be shown.
 
-附录可折叠以便查阅，但不设置隐私遮挡开关。不得把“抗压弱、急功近利、适合/不适合”等判断写进档案。
+## 11. Money and protection
+
+Income structure, assets, debts, spending, insurance. Record only what bears on the judgment. Redact before generating a version that will be shared.
+
+## 12. Time, daily life, and objective health
+
+Schedule, commute, screen time, exercise, and long-term health facts.
+
+## 13. Goals, constraints, gaps, and conflicts
+
+Stated goals, preferences, unacceptable conditions, conflicts in the materials, and items not yet provided.
+
+The appendix may be collapsed for reading. It does not get a privacy mask. Do not write judgments such as "low resilience," "impatient for results," or "suited / not suited" into the file.
