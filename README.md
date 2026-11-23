@@ -162,34 +162,6 @@ demo/career-strategy-report.demo.html
 
 直接用浏览器打开即可。Demo 使用消费品行业虚构人物，所有公司、项目、市场、收入和财务数据均为虚构，仅展示分析方法与报告效果。
 
-## 在 WorkBuddy 中使用
-
-本 Skill 已按 [WorkBuddy 技能规范](https://open.workbuddy.cn/docs/skill#%E6%8A%80%E8%83%BD%E5%B8%82%E5%9C%BA) 配置：
-
-- `SKILL.md` 使用 YAML frontmatter；
-- 已提供中英文展示名称、简介和示例；
-- 已配置版本与作者；
-- 参考知识位于 `references/`；
-- 报告模板位于 `templates/`；
-- `SKILL.md` 使用 `@references/...` 和 `@templates/...` 引用资源。
-
-建议上传市场时只打包运行所需文件：
-
-```bash
-cd /path/to/parent
-zip -r career-planner-workbuddy.zip \
-  career-planner/SKILL.md \
-  career-planner/references \
-  career-planner/templates
-```
-
-然后进入 WorkBuddy：
-
-1. 打开「专家·技能·连接器」→「技能」；
-2. 点击「添加技能」→「创建技能」；
-3. 根据引导上传 ZIP 并完成创建；
-4. 安装后直接在对话中调用。
-
 ## 试试这样问
 
 ```text
