@@ -15,13 +15,13 @@ Career Planner 是一套面向各行业的职业规划 Skill。它可以阅读�
 - 14/30/60/90 天可验证行动；
 - 一份内容优先、可以坐下来慢慢读完的深度 HTML 报告。
 
-![报告首页：结论、定位与第一步](demo/assets/report-hero.png)
+![报告首页：结论、定位与第一步](demo/report-hero.png)
 
 ## 它凭什么不一样：先看工作方式
 
 市面上大多数职业规划工具，本质上是“陪聊”：你说什么，它顺着说什么，最后给你几句鼓励和一串方向。Career Planner 按资深顾问办案的方式工作——**没有证据不开口，没有账本不下注**：
 
-![工作方法：取证、调研、审判、定位、验证](demo/assets/methodology.svg)
+![工作方法：取证、调研、审判、定位、验证](demo/methodology.svg)
 
 五个环节，环环有产出：
 
@@ -54,7 +54,7 @@ Career Planner 是一套面向各行业的职业规划 Skill。它可以阅读�
 
 下面这张图把差距一次讲清（对比对象是市面上常见的“问答式 / 模板式”职业规划做法，不针对某个具体产品）：
 
-![Career Planner 与常见职业规划 Skill 对比](demo/assets/comparison.svg)
+![Career Planner 与常见职业规划 Skill 对比](demo/comparison.svg)
 
 同样的内容，用表格再列一遍，方便细看：
 
@@ -105,7 +105,7 @@ Skill 会先输出“已获取事实、材料冲突、仍缺信息”。缺少�
 
 `兴趣 → 稳定产出 → 外部需求 → 首次付费 → 重复成立 → 可持续经营`
 
-![探索诊断：把冲动变成可验证的职业期权](demo/assets/report-exploration.png)
+![探索诊断：把冲动变成可验证的职业期权](demo/report-exploration.png)
 
 兴趣、播放量和证书属于信号，不自动等于职业机会。报告会分别判断：
 
@@ -130,7 +130,7 @@ Skill 会先输出“已获取事实、材料冲突、仍缺信息”。缺少�
 6. 服务交付与体验；
 7. 从试点到规模化采用。
 
-![定位与去留：给出唯一主张，而不是选项清单](demo/assets/report-positioning.png)
+![定位与去留：给出唯一主张，而不是选项清单](demo/report-positioning.png)
 
 技术、制造、教育、医疗、销售、设计等行业共用分析骨架，但不会共用结论。技术案例只用于展示方法，不会把非技术用户引向 AI 或研发岗位。
 
@@ -191,12 +191,11 @@ career-planner/
 │   └── report-template.html
 └── demo/
     ├── career-strategy-report.demo.html
-    └── assets/
-        ├── report-hero.png
-        ├── report-exploration.png
-        ├── report-positioning.png
-        ├── methodology.svg
-        └── comparison.svg
+    ├── report-hero.png
+    ├── report-exploration.png
+    ├── report-positioning.png
+    ├── methodology.svg
+    └── comparison.svg
 ```
 
 ## 边界
